@@ -6,12 +6,14 @@ file_path = os.path.dirname(os.getcwd()) + "/raw_data/"
 
 # Load in FAO Area to Country map
 
-with open("area_to_country.pkl", "rb") as file:
+conversion_path = os.path.dirname(os.getcwd()) + "/conversions/"
+
+with open(conversion_path + "area_to_country.pkl", "rb") as file:
     area_to_country = pickle.load(file)
 
 # Load in mapping from FAO countries to WEO (World Economic Outlook) countries
     
-with open("countries_mapping_rev.pkl", "rb") as file:
+with open(conversion_path + "countries_mapping_rev.pkl", "rb") as file:
     countries_mapping_rev = pickle.load(file)
 
 # Convert area to country map to WEO countries naming
@@ -81,3 +83,20 @@ unemp_area = aggregate_econ_data(unemp)
 pop_area = aggregate_econ_data(pop)
 imp_pc_area = aggregate_econ_data(imp_pc)
 ex_pc_area = aggregate_econ_data(ex_pc)
+
+# Pickle data into model_data folder
+
+model_data_path = os.path.dirname(os.getcwd()) + "/model_data/"
+
+def save_econ_data(data, file_name):
+    with open(model_data_path + file_name, "wb") as file:
+        pickle.dump(data, file)
+    
+    print(f"Successfully saved {file_name} to {model_data_path}")
+
+save_econ_data(cpi_fab_area, "cpi_fab.pkl")
+save_econ_data(gdp_pc_area, "gdp_pc.pkl")
+save_econ_data(unemp_area, "unemp.pkl")
+save_econ_data(pop_area, "pop.pkl")
+save_econ_data(imp_pc_area, "imp_pc.pkl")
+save_econ_data(ex_pc_area, "ex_pc.pkl")

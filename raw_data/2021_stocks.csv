@@ -1,0 +1,2112 @@
+Area,ISSCAAP,ASFIS Name,Location,Status
+21,38,Leucoraja ocellata,USA - Georges Bank / Southern New England,U
+21,38,Dipturus laevis,USA - Georges Bank / Southern New England,M
+21,38,Rostroraja eglanteria,USA - Southern New England / Mid-Atlantic,M
+21,38,Leucoraja erinacea,USA - Georges Bank / Southern New England,M
+21,38,Leucoraja garmani,USA - Southern New England / Mid-Atlantic,M
+21,38,Malacoraja senta,USA- Gulf of Maine,M
+21,38,Amblyraja radiata,USA- Gulf of Maine,O
+21,35,Clupea harengus,Canada - Herring Fishing Area 15 (4S),M
+21,35,Clupea harengus,"Canada - NAFO 5Y, 5Z (weirs)",O
+21,35,Clupea harengus,Canada southern Gulf of St. Lawrence (NAFO Div. 4T),M
+21,35,Clupea harengus,Canada - 4VWX,O
+21,35,Clupea harengus,Canada - West Coast of Newfoundland (NAFO Division 4R),M
+21,35,Clupea harengus,Canada - Newfoundland east and south coast,M
+21,35,Clupea harengus,Canada - Quebec North Shore (Division 4S),M
+21,35,Clupea harengus,USA - - Northwestern Atlantic Coast,O
+21,35,Brevoortia tyrannus,USA - Atlantic Coast,M
+21,32,Gadus morhua,Canada - in NAFO Divisions 4X5Y,O
+21,32,Gadus morhua,Canada - Spawning Aggregations in NAFO Division 5Z (Georges Bank),O
+21,32,Gadus morhua,Canada - (NAFO Div. 4T and 4Vn (November to April)) and American Plaice (NAFO Div. 4T),O
+21,32,Gadus morhua,"Canada - northern Gulf of St. Lawrence (3Pn, 4RS)",O
+21,32,,Canada - NAFO Subdivision 3Ps,O
+21,32,Brosme brosme,Canada - in NAFO Divisions 4VWX5Z,O
+21,32,Melanogrammus aeglefinus,Canada - in NAFO Divisions 4X5Y,M
+21,32,Melanogrammus aeglefinus,Canada - in NAFO Subdivision 3Ps,O
+21,32,Melanogrammus aeglefinus,Canada - NAFO Divisions 3LNO,O
+21,32,,Canada - (NAFO Divisions 2J3KL),O
+21,32,Pollachius virens,Canada - Western Component in NAFO Divisions 4Xopqrs5,M
+21,32,Merluccius bilinearis,Canada - Scotian Shelf in NAFO Divisions 4VWX,M
+21,32,Urophycis tenuis,Canada - from NAFO Div. 4T,O
+21,32,Melanogrammus aeglefinus,USA - Georges Bank,M
+21,32,Melanogrammus aeglefinus,USA - Gulf of Maine,U
+21,32,Merluccius bilinearis,USA - Gulf of Maine / Georges Bank,U
+21,32,Merluccius bilinearis,USA - Southern Georges Bank / Mid-Atlantic,M
+21,32,Pollachius virens,USA - Gulf of Maine / Northern Georges Bank,U
+21,32,Urophycis tenuis,USA - Gulf of Maine / Georges Bank,M
+21,32,Gadus ogac,Greenland - Inshore,M
+21,32,Gadus ogac,Greenland - Offshore,O
+21,32,,High Seas - in Flemish Cap (NAFO Div. 3M),M
+21,31,Hippoglossoides platessoides,Canada - (NAFO Div. 4T),O
+21,31,Hippoglossoides platessoides,Canada - in NAFO Subarea 2 + Div. 3K,O
+21,31,Hippoglossoides platessoides,Canada - NAFO Subdivision 3Ps,O
+21,31,Hippoglossus hippoglossus,Canada - on the Scotian Shelf and Southern Grand Banks in NAFO Divisions 3NOPs4VWX5Zc,M
+21,31,Hippoglossus hippoglossus,Canada - Gulf of St. Lawrence (4RST),M
+21,31,Reinhardtius hippoglossoides,Canada - Cumberland Sound,U
+21,31,Reinhardtius hippoglossoides,Canada - NAFO 0A and 0B,M
+21,31,Reinhardtius hippoglossoides,Canada - Gulf of St. Lawrence (4RST),M
+21,31,Pseudopleuronectes americanus,"Canada- NAFO Div. 4T,",O
+21,31,Glyptocephalus cynoglossus,Canada - NAFO Divs. 4RST and,O
+21,31,Urophycis tenuis,Canada - NAFO Div. 4T,O
+21,31,Glyptocephalus cynoglossus,Canada - 3NO,M
+21,31,Glyptocephalus cynoglossus,Canada - in NAFO Divisions 2J3KL,O
+21,31,Glyptocephalus cynoglossus,Canada - in NAFO Subdivision 3Ps,M
+21,31,Glyptocephalus cynoglossus,Canada - NAFO Divs. 4RST,M
+21,31,Limanda ferruginea,Canada - 3LNO,M
+21,31,Limanda ferruginea,Canada - 5Z,O
+21,31,Limanda ferruginea,Canada - of the southern Gulf of St. Lawrence (NAFO Div. 4T),O
+21,31,Hippoglossoides platessoides,USA - Gulf of Maine / Georges Bank,M
+21,31,Paralichthys dentatus,USA - Mid-Atlantic Coast,M
+21,31,Scophthalmus aquosus,USA - Georges Bank,U
+21,31,Scophthalmus aquosus,USA - Southern New England / Mid-Atlantic,M
+21,31,Pseudopleuronectes americanus,USA - Georges Bank,M
+21,31,Pseudopleuronectes americanus,USA - Southern New England / Mid-Atlantic,M
+21,31,Limanda ferruginea,USA - Gulf of Maine / Georges Bank,U
+21,31,Limanda ferruginea,USA - Cape Cod / Gulf of Maine,M
+21,31,Limanda ferruginea,USA - Southern New England / Mid-Atlantic,O
+21,31,Hippoglossoides platessoides,High Seas - in Division 3M,O
+21,33,Myoxocephalus octodecemspinosus,Canada - St. Mary's Bay,M
+21,33,Centropristis striata,USA - Mid-Atlantic Coast,U
+21,33,Stenotomus chrysops,USA - Atlantic Coast,U
+21,33,Zoarces americanus,USA - Northwestern Atlantic Coast,O
+21,34,Sebastes fasciatus,Canada - Unit 3,M
+21,34,Cyclopterus lumpus,Canada - in Canadian Waters,O
+21,34,Lophius americanus,Canada - in NAFO Divisions 3LNO and Subdivision 3Ps,M
+21,34,Sebastes mentella,Canada - in Units 1 and 2,M
+21,34,Sebastes mentella,Canada - in NAFO SA 2 + Divs. 3K,O
+21,34,Sebastes fasciatus,Canada - in Units 1 and 2,M
+21,34,Sebastes mentella,Canada - Unit 3,M
+21,34,Sebastes fasciatus,USA - Gulf of Maine / Georges Bank,M
+21,34,Anarhichas lupus,USA - Gulf of Maine / Georges Bank,O
+21,34,,USA - Southern Georges Bank / Mid-Atlantic,M
+21,34,,USA - Mid-Atlantic Coast,M
+21,34,Sebastes fasciatus,High Seas - in division 3M,M
+21,34,Sebastes mentella,High Seas - in division 3M,M
+21,37,Scomber scombrus,Canada - northern contingent,O
+21,37,Mallotus villosus,Canada - 2J3KL,O-M
+21,37,Mallotus villosus,Canada - Estuary and Gulf of St. Lawrence (Divisions 4RST),M
+21,37,Mallotus villosus,Canada - in SA2 and Divs. 3KL,M
+21,37,Scomber scombrus,USA - Gulf of Maine / Cape Hatteras,O
+21,37,Pomatomus saltatrix,USA - Atlantic Coast,O
+21,37,Stromateidae,USA - Gulf of Maine / Cape Hatteras,U
+21,43,Homarus americanus,Canada - in Lobster Fishing Area 33,M
+21,43,Homarus americanus,Canada - in Lobster Fishing Area 34,M
+21,43,Homarus americanus,Canada - in Lobster Fishing Area 35,M
+21,43,Homarus americanus,Canada - in Lobster Fishing Area 41 (4X +5Zc),M
+21,43,Homarus americanus,Canada - in Lobster Fishing Areas 27-32,M
+21,43,Homarus americanus,Canada - in Lobster Fishing Areas 35-38,M
+21,43,Homarus americanus,Canada - in the Gaspé (LFAs 19-21),M
+21,43,Homarus americanus,Canada - in the Magdalen Islands (LFA 22),M
+21,43,Homarus americanus,"Canada - on the North Shore (LFAs 15, 16 and 18)",M
+21,43,Homarus americanus,Canada - southern Gulf of St. Lawrence,M
+21,43,Homarus americanus,Canada - in Newfoundland,M
+21,43,Homarus americanus,USA - Gulf of Maine / Georges Bank,M
+21,43,Homarus americanus,USA - Southern New England,O
+21,45,,Canada - SFA 8-12,M
+21,45,Pandalus borealis,Canada - SFA 7,O
+21,45,Pandalus borealis,Canada - - SFA 1,M
+21,45,Pandalus borealis,Canada - in the Eastern and Western Assessment Zones,M
+21,45,Pandalus borealis,Canada - in Shrimp Fishing Areas 4-6,O-M
+21,45,Pandalus montagui,Canada - in the Eastern and Western Assessment Zones,M
+21,45,Pandalus borealis,Canada - Eastern Scotian Shelf (SFAs 13-15),M
+21,45,Pandalus borealis,Canada - in the Estuary and Gulf of St. Lawrence,M
+21,45,,Canada - Scotian Shelf (SFA 13-15),M
+21,45,Pandalus montagui,Canada - in SFA 4,M
+21,45,Pandalus montagui,Canada - in the Eastern and Western Assessment Zones,M
+21,56,Mactromeris polynyma,Canada - on Banquereau and Grand Bank,M
+21,56,Spisula solidissima,Canada - Îles-de-la-Madeleine,M
+21,56,,Canada - in Québec coastal waters,M
+21,56,Spisula polynyma,Canada - in Québec coastal waters,M
+21,56,Spisula solidissima,USA - Mid-Atlantic Coast,M
+21,56,Arctica islandica,USA - Atlantic Coast,M
+21,42,Chionoecetes opilio,,M
+21,42,Cancer irroratus,,M
+21,23,Salmo salar,,O
+27,35,Engraulis encrasicolus,in Atlantic Iberian waters,M
+27,35,Engraulis encrasicolus,in Bay of Biscay,M
+27,35,Clupea harengus,in central Baltic Sea,O
+27,35,Clupea harengus,in Gulf of Bothnia,M
+27,35,Clupea harengus,"in Skagerrak, Kattegat, and western Baltic",O
+27,35,Clupea harengus,North Sea,M
+27,35,Clupea harengus,"in Irish Sea, Celtic Sea, and southwest of Ireland",O
+27,35,Clupea harengus,in west of Ireland and Scotland,M
+27,35,Clupea harengus,Irish Sea,M
+27,35,Clupea harengus,Norwegian,M
+27,35,Clupea harengus,Gulf of Riga,M
+27,35,Clupea harengus,Icelandic,M
+27,35,Sardina pilchardus,in Bay of Biscay,M
+27,35,Sardina pilchardus,in Cantabrian Sea and Atlantic Iberian waters,M
+27,35,Sardina pilchardus,in southern Celtic Seas and the English Channel,M
+27,35,Sprattus sprattus,in Baltic Sea,M
+27,35,Sprattus sprattus,in English Channel,U
+27,35,Sprattus sprattus,"in Skagerrak, Kattegat, and North Sea",M
+27,32,Micromesistius poutassou,in Northeast Atlantic and adjacent waters,M
+27,32,Gadus morhua,Western Baltic,O
+27,32,Gadus morhua,Eastern Baltic,O
+27,32,,Northeast Arctic,M
+27,32,Gadus morhua,northern Norwegian coastal,O
+27,32,Gadus morhua,southern Norwegian coastal,O
+27,32,Gadus morhua,Faroe Bank,M
+27,32,Gadus morhua,Faroe Plateau,O
+27,32,Gadus morhua,Iceland,M
+27,32,Gadus morhua,"North Sea, Eastern Channel, and Skagerrak",O
+27,32,Gadus morhua,Western Channel and Celtic Sea,O
+27,32,Gadus morhua,Irish Sea,O
+27,32,Gadus morhua,in Kattegat,O
+27,32,Gadus morhua,West of Scotland,O
+27,32,Melanogrammus aeglefinus,Northeast Arctic,M
+27,32,Melanogrammus aeglefinus,Faroe Islands,M
+27,32,Melanogrammus aeglefinus,Iceland and E. Greenland,M
+27,32,Melanogrammus aeglefinus,"North Sea, West Scotland & Skagerrak",M
+27,32,Melanogrammus aeglefinus,Celtic seas,M
+27,32,Melanogrammus aeglefinus,Irish Sea,U
+27,32,Melanogrammus aeglefinus,Rockall,M
+27,32,Merluccius merluccius,"Northern stock (Greater North Sea, Celtic Seas, and the northern Bay of Biscay)",M
+27,32,Merluccius merluccius,Southern stock,M
+27,32,Trisopterus esmarkii,North Sea and Skagerrak-Kattegat,M
+27,32,Trisopterus esmarkii,in Division 6.a,U
+27,32,Pollachius virens,Northeast Arctic,U
+27,32,Pollachius virens,Faroes grounds,M
+27,32,Pollachius virens,Iceland,M
+27,32,Pollachius virens,"North Sea, Skagerrak, West of Scotland and Rockall saithe",M
+27,32,Merlangius merlangus,in southern Celtic Seas and western English Channel,O
+27,32,Merlangius merlangus,in North Sea and eastern English Channel,M
+27,32,Merlangius merlangus,Irish Sea,O
+27,32,Merlangius merlangus,Skagerrak – Kattegat,M
+27,32,Merlangius merlangus,in Rockall,U
+27,32,Merlangius merlangus,in West of Scotland,M
+27,32,Merlangius merlangus,in Bay of Biscay and Atlantic Iberian waters,M
+27,32,Molva dypterygia,in East Greenland and Iceland grounds,M
+27,32,Molva dypterygia,in Northeast Atlantic,O
+27,32,Molva dypterygia,in Celtic Seas and Faroes grounds,M
+27,32,Molva molva,Northeast Arctic,M
+27,32,Molva molva,Iceland grounds,M
+27,32,Molva molva,Faroes grounds,M
+27,32,Molva molva,Northeast Atlantic and Arctic Ocean,M
+27,32,Pollachius pollachius,in Celtic Seas and the English Channel,O
+27,32,Pollachius pollachius,in Bay of Biscay and Atlantic Iberian waters,M
+27,32,Coryphaenoides rupestris,in Skagerrak and Kattegat,O
+27,32,Brosme brosme,in Northeast Arctic,M
+27,32,Brosme brosme,in Northeast Atlantic,M
+27,32,Brosme brosme,in East Greenland and Iceland grounds,M
+27,31,Platichthys solemdali,in northern central and northern Baltic Sea,M
+27,31,,"in North Sea, Skagerrak and Kattegat",M
+27,31,Platichthys flesus,in Belt Seas and the Sound,M
+27,31,Platichthys spp.,in west of Bornholm and southwestern central Baltic,M
+27,31,Platichthys spp.,in east of Gotland and Gulf of Gdansk,M
+27,31,Reinhardtius hippoglossoides,Northeast Arctic,M
+27,31,Reinhardtius hippoglossoides,,M
+27,31,Lepidorhombus boscii,southern Bay of Biscay and Atlantic Iberian waters East,M
+27,31,Lepidorhombus whiffiagonis,"west and southwest of Ireland, Bay of Biscay",M
+27,31,Lepidorhombus whiffiagonis,in Cantabrian Sea and Atlantic Iberian waters,M
+27,31,Lepidorhombus spp.,"in northern North Sea, West of Scotland",U
+27,31,Lepidorhombus whiffiagonis,Rockall,M
+27,31,Scophthalmus maximus,in North Sea,M
+27,31,Scophthalmus maximus,in Skagerrak and Kattegat,M
+27,31,,in Bay of Biscay,M
+27,31,,in Bay of Biscay/Iberian,M
+27,31,,in Celtic Sea,M
+27,31,Solea solea,in Eastern Channel,O
+27,31,,in Irish Sea,M
+27,31,,in North Sea,M
+27,31,,"in Skagerrak and Kattegat, western Baltic Sea",M
+27,31,,in Western Channel,M
+27,31,,Celtic Sea,M
+27,31,Pleuronectes platessa,West of Ireland,O
+27,31,,Southwest of Ireland,M
+27,31,,North Sea,M
+27,31,,Eastern Channel,O
+27,31,,Western Channel,M
+27,31,,Irish Sea,M
+27,31,,in Bay of Biscay,M
+27,31,,in Baltic Sea,U
+27,31,,in Kettegat,U
+27,31,,in Iceland grounds,M
+27,31,Microstomus kitt,"in North Sea, Skagerrak and Kattegat, eastern English Channel",M
+27,31,Limanda limanda,in Baltic Sea,M
+27,31,Limanda limanda,"in North Sea, Skagerrak and Kattegat",M
+27,31,Glyptocephalus cynoglossus),"in North Sea, Skagerrak and Kattegat, eastern English Channel",M
+27,31,Scophthalmus rhombus,"in North Sea, Skagerrak and Kattegat, English Channel",M
+27,23,Salmo salar,Northern North-East Atlantic Commission Salmon,M
+27,23,Salmo salar,Northern North-East Atlantic Commission Salmon,M
+27,23,Salmo salar,Southern North-East Atlantic Commission Salmon,O
+27,23,Salmo salar,Southern North-East Atlantic Commission Salmon,M
+27,23,Salmo trutta,Baltic Sea,M
+27,33,Ammodytes spp.,"SA 1r in central and southern North Sea, Dogger Bank",M
+27,33,Ammodytes spp.,SA 2r in central and southern North Sea,O
+27,33,Ammodytes spp.,"SA 3r in central and northern North Sea, Skagerrak",M
+27,33,Ammodytes spp.,SA 4r in central and northern North Sea,M
+27,33,Ammodytes spp.,"SA 5r in northern North Sea, Viking and Bergen banks",U
+27,33,Ammodytes spp.,"SA 6r in Skagerrak, Kattegat and Belt Sea",U
+27,33,Ammodytes spp.,"SA 7r in northern North Sea, Shetland",U
+27,33,Ammodytes spp.,West Scotland,U
+27,33,Dicentrarchus labrax,"in central and southern North Sea, Irish Sea, English Channel, Bristol Channel, and Celtic Sea",M
+27,33,Dicentrarchus labrax,in northern and central Bay of Biscay,M
+27,33,Pagellus bogaraveo,in Azores grounds,M
+27,33,Pagellus bogaraveo,"in Celtic Seas and the English Channel, Bay of Biscay",O
+27,34,Lophius budegassa,in Cantabrian Sea and Atlantic Iberian waters,M
+27,34,Lophius piscatorius,in Cantabrian Sea and Atlantic Iberian waters,M
+27,34,Lophius piscatorius,"in Celtic Seas, Bay of Biscay",M
+27,34,Lophius piscatorius,"in North Sea, Rockall and West of Scotland, Skagerrak and Kattegat",M
+27,34,Lophius budegassa,"in North Sea, Rockall and West of Scotland, Skagerrak and Kattegat",M
+27,34,Lophius budegassa,"in Celtic Seas, Bay of Biscay",M
+27,34,Hoplostethus atlanticus,in the Northeast Atlantic and adjacent waters,O
+27,34,Sebastes mentella,in Northeast Arctic,M
+27,34,Sebastes mentella,"Icelandic slope stock (East of Greenland, Iceland grounds)",O
+27,34,Sebastes mentella,demersal (Southeast Greenland),O
+27,34,Sebastes norvegicus,"in Iceland and Faroes grounds, West of Scotland, North of Azores, East of Greenland",M
+27,34,Sebastes norvegicus,in Northeast Arctic,O
+27,34,Sebastes mentella,"deep pelagic stock (>500m) in Iceland and Faroes grounds, North of Azores, East of Greenland and NAFO subareas 1 and 2",O
+27,34,Sebastes mentella,"shallow pelagic stock (<500m) in Iceland and Faroes grounds, North of Azores, East of Greenland and NAFO subareas 1 and 2",O
+27,34,Argentina silus,in Faroes grounds and west of Scotland,M
+27,34,Argentina silus,in East Greenland and Iceland grounds,U
+27,34,Argentina silus,in other areas,M
+27,34,Argentina silus,"in Northeast Arctic, North Sea, Skagerrak, and Kattegat",M
+27,34,Aphanopus carbo,in Northeast Atlantic and Arctic Ocean,M
+27,34,Anarhichas lupus,in Iceland grounds,M
+27,37,Mallotus villosus,in Barents Sea,M
+27,37,Mallotus villosus,Iceland–East Greenland–Jan Mayen,M
+27,37,Trachurus trachurus,in Atlantic Iberian waters,U
+27,37,Trachurus trachurus,"in Skagerrak and Kattegat, southern and central North Sea, eastern English Channel",O
+27,37,Trachurus trachurus,in the Northeast Atlantic and adjacent waters,O
+27,37,Scomber scombrus,in the Northeast Atlantic and adjacent waters,M
+27,43,Nephrops norvegicus,in Skagerrak and Kattegat,M
+27,43,Nephrops norvegicus,North Sea Botney Gut-Silver Pit FU 5,M
+27,43,Nephrops norvegicus,North Sea Farn Deeps FU 6,M
+27,43,Nephrops norvegicus,North Sea Fladen ground FU 7,M
+27,43,Nephrops norvegicus,North Sea Firth of Forth FU 8,M
+27,43,Nephrops norvegicus,North Sea Moray Firth FU 9,M
+27,43,Nephrops norvegicus,North Sea Noup FU 10,M
+27,43,Nephrops norvegicus,West Scotland North Minch FU 11,M
+27,43,Nephrops norvegicus,West Scotland South Minch FU 12,M
+27,43,Nephrops norvegicus,"West Scotland, Firth of Clyde FU 13",M
+27,43,Nephrops norvegicus,Irish Sea East FU 14,M
+27,43,Nephrops norvegicus,Irish Sea West FU 15,M
+27,43,Nephrops norvegicus,Porcupine Bank FU 16,M
+27,43,Nephrops norvegicus,Aran Grounds FU 17,O
+27,43,Nephrops norvegicus,Ireland SW and SE coast,O
+27,43,Nephrops norvegicus,Celtic Sea,M
+27,43,Nephrops norvegicus,"Celtic Sea, Bristol Channel",O
+27,43,Nephrops norvegicus,Bay of Biscay,M
+27,43,Nephrops norvegicus,in southern Bay of Biscay and northern Galicia,O
+27,43,Nephrops norvegicus,"Atlantic Iberian waters East, western Galicia, and northern Portugal",O
+27,43,Nephrops norvegicus,"Atlantic Iberian waters East, western Galicia, and northern Portugal",U
+27,43,Nephrops norvegicus,in southern Bay of Biscay and northern Galicia,M
+27,43,Nephrops norvegicus,North Sea Norwegian Deeps,M
+27,43,Nephrops norvegicus,North Sea Off Horn's Reef FU 33,M
+27,43,Nephrops norvegicus,North Sea Devil's Hole FU 34,M
+27,45,Pandalus borealis,in Barents Sea,U
+27,45,Pandalus borealis,in Fladen Ground,U
+27,45,Pandalus borealis,in Skagerrak and Kattegat and northern North Sea in the Norwegian Deep,M
+31,38,Prionace glauca,North Atlantic,M
+31,38,Isurus oxyrinchus,North Atlantic,O
+31,38,Carcharhinus limbatus,North Atlantic,M
+31,38,Carcharhinus plumbeus,North Atlantic,O
+31,36,Thunnus alalunga,North Atlantic,M
+31,36,Katsuwonus pelamis,Western Atlantic,U
+31,36,Thunnus albacares,Atlantic,M
+31,36,Thunnus thynnus,Western Atlantic,?
+31,36,Thunnus obesus,Atlantic,M
+31,36,Thunnus atlanticus,Western Central Atlantic,O
+31,36,Xiphias gladius,North Atlantic,M
+31,36,Istiophorus albicans,Western Atlantic,M
+31,36,Makaira nigricans,Atlantic,O
+31,36,Kajikia albida,Atlantic,O
+31,36,Scomberomorus maculatus,USA South Atlantic,M
+31,36,Scomberomorus maculatus,USA Gulf of Mexico,U
+31,36,Scomberomorus cavalla,USA Southeast Atlantic,U
+31,36,Scomberomorus cavalla,USA Gulf of Mexico,M
+31,36,Scomberomorus cavalla,Dominican Republic,O
+31,36,Scomberomorus cavalla,"Guyana, Trinidad and Tobago, and Venezuela",O
+31,36,Scomberomorus cavalla,Mexico,U
+31,36,Scomberomorus brasiliensis,"Guyana, Trinidad and Tobago, and Venezuela",O
+31,35,Brevoortia tyrannus,USA Atlantic coast,M
+31,35,Opisthonema oglinum,Cuba,M
+31,35,Opisthonema oglinum,Venezuela,O
+31,35,Opisthonema oglinum,USA Gulf of Mexico,U
+31,35,Brevoortia patronus,USA Gulf of Mexico,U
+31,35,Sardinella aurita,Eastern Venezuela,O
+31,33,Mugil cephalus,Florida West coast,M
+31,33,Mugil cephalus,Florida East coast,U
+31,33,Mugil cephalus,Louisiana waters,U
+31,33,Mugil cephalus,Mexico Gulf of Mexico,U
+31,33,Mugil liza,Venezuela,M
+31,33,Epinephelus morio,USA Southeast Atlantic,O
+31,33,Epinephelus morio,USA Gulf of Mexico,M
+31,33,Epinephelus morio,Mexican Gulf of Mexico,O
+31,33,Mycteroperca microlepis,USA Southeast Atlantic,O
+31,33,Mycteroperca microlepis,USA Gulf of Mexico,O
+31,33,Hyporthodus niveatus,USA Gulf of Mexico,O
+31,33,Hyporthodus niveatus,USA Southeast Atlantic,O
+31,33,Centropristis striata,USA Southeast Atlantic,O
+31,33,Sciaenops ocellatus,USA Southeast Atlantic,?
+31,33,Sciaenops ocellatus,NW Florida,U
+31,33,Sciaenops ocellatus,SW Florida,U
+31,33,Cynoscion regalis,USA Atlantic coast,O
+31,33,Cynoscion nebulosus,"Louisiana state, USA",O
+31,33,Cynoscion nebulosus,"Mississippi state, USA",M
+31,33,Cynoscion nebulosus,"Mexico
+ Gulf of Mexico",O
+31,33,Pogonias cromis,USA Atlantic coast,U
+31,33,Pogonias cromis,Mexico Gulf of Mexico,O
+31,33,Centropomus undecimalis,Venezuela,M
+31,33,Centropomus spp,Mexico Gulf of Mexico,O
+31,33,Hirundichthys affinis,Eastern Caribbean,O
+31,33,Menticirrhus littoralis,USA Gulf of Mexico,M
+31,33,Menticirrhus littoralis,Mexico Gulf of Mexico,O
+31,33,Micropogonias furnieri,Venezuela,M
+31,33,Lutjanus analis,USA South Atlantic and Gulf of Mexico,M
+31,33,Lutjanus campechanus,USA Southeast Atlantic,O
+31,33,Lutjanus campechanus,USA Gulf of Mexico,O
+31,33,Lutjanus campechanus,Mexico Gulf of Mexico,M
+31,33,Rhomboplites aurorubens,USA Southeast Atlantic,M
+31,33,Rhomboplites aurorubens,USA Gulf of Mexico,U
+31,33,Lutjanus synagris,Mexico,O
+31,33,Lutjanus synagris,Cuba,O
+31,33,Lutjanus griseus,USA Gulf of Mexico,O
+31,33,Ocyurus chrysurus,USA Southeast Atlantic,U
+31,33,Ocyurus chrysurus,Mexico,M
+31,33,Ocyurus chrysurus,Cuba,O
+31,33,Ocyurus chrysurus,Venezuela,O
+31,37,Coryphaena hippurus,Western Central Atlantic,U
+31,42,Callinectes sapidus,Louisiana waters,U
+31,42,Callinectes sapidus,Venezuela,O
+31,42,Callinectes sapidus,Mexico,U
+31,43,Panulirus argus,Puerto Rico,U
+31,43,Panulirus argus,Saint Croix,U
+31,43,Panulirus argus,Saint Thomas/Saint John,U
+31,43,Panulirus argus,Cuba,O
+31,43,Panulirus argus,Center Caribbean stock,U
+31,43,Panulirus argus,Western Caribbean stock,M
+31,43,Panulirus argus,Northern Caribbean stock,M
+31,43,Panulirus argus,Center Caribbean stock,U
+31,43,Panulirus argus,Western Caribbean stock,O
+31,43,Panulirus argus,Northern Caribbean stock,U
+31,45,Xiphopenaeus kroyeri,Suriname,M
+31,45,Xiphopenaeus kroyeri,Guyana,U
+31,45,Penaeus aztecus,USA Gulf of Mexico,U
+31,,Penaeus aztecus,USA South Atlantic,U
+31,45,Penaeus setiferus,USA Gulf of Mexico,U
+31,45,Penaeus setiferus,USA South Atlantic,U
+31,45,Penaeus duorarum,USA Gulf of Mexico,U
+31,45,Penaeus duorarum,USA South Atlantic,U
+31,52,Aliger gigas,Honduras,O
+31,52,Aliger gigas,Dominican Republic,M
+31,52,Aliger gigas,Nicaragua,M
+31,52,Aliger gigas,Belize,U
+31,52,Aliger gigas,Jamaica,O
+31,52,Aliger gigas,Mexico,U
+31,52,Aliger gigas,Turks and Caicos,U
+31,52,Aliger gigas,US Virgin islands,O
+31,52,Aliger gigas,The Bahamas,U
+31,52,Aliger gigas,Puerto Rico,U
+31,53,Crassostrea virginica,Louisiana state,O
+31,53,Crassostrea virginica,Mexico,M
+31,56,Arca zebra,Venezuela,M
+31,57,Octopus maya and Octopus vulgaris,Mexico,O
+31,76,Holothuroidea,Nicaragua,M
+34,38,Elasmobranchii,,?
+34,38,Rajiformes,,M
+34,36,Auxis thazard,,O
+34,36,Orcynopsis unicolor,,O
+34,35,Engraulis encrasicolus,"Ghana, Togo, Benin",O
+34,35,Engraulis encrasicolus,,M
+34,35,Engraulis encrasicolus,,M
+34,35,Ethmalosa fimbriata,Guinea,M
+34,35,Ethmalosa fimbriata,"Ghana, Benin",O
+34,35,Ethmalosa fimbriata,"Nigeria, Cameroon",O
+34,35,Ethmalosa fimbriata,,M
+34,35,Ethmalosa fimbriata,"Mauritania, Senegal and Gambia",O
+34,35,Sardina pilchardus,,U
+34,35,Sardina pilchardus,,U
+34,35,Sardinella aurita,"Guinea, Liberia",M
+34,35,Sardinella aurita,"Ghana, Togo, Benin",O
+34,35,Sardinella aurita,Nigeria,O
+34,35,Sardinella aurita,,O
+34,35,Sardinella aurita,,O
+34,35,Sardinella maderensis,"Guinea, Liberia",O
+34,35,Sardinella maderensis,"Ghana, Togo, Benin",O
+34,35,Sardinella maderensis,"Nigeria, Cameroon",M
+34,35,Sardinella maderensis,,M
+34,35,Sardinella maderensis,,O
+34,35,Sardinella spp,"Guinea, Guinea-Bissau, Liberia",O
+34,35,Sardinella spp,,O
+34,32,Merluccius merluccius,Morocco,O
+34,32,Merluccius polli,South,U
+34,32,Merluccius spp,Angola,O
+34,32,Merluccius spp,"Marocco, Mauritania, Senegal, Gambia",O
+34,31,Cynoglossus spp,Guinea,O
+34,31,Cynoglossus spp,South,U
+34,31,Cynoglossus spp,South,O
+34,33,Brachydeuterus auritus,"Congo, Gabon",M
+34,33,Brachydeuterus auritus,"Côte d’Ivoire, Ghana, Togo, Benin",M
+34,33,Brachydeuterus auritus,Nigeria,M
+34,33,Brachydeuterus auritus,South,O
+34,33,Brachydeuterus auritus,South,U
+34,33,Cephalopholis taeniops,South,U
+34,33,Dentex macrophthalmus,"Mauritania, Senegal and Gambia",U
+34,33,Dentex macrophthalmus,South,M
+34,33,Dentex spp,"Côte d’Ivoire, Ghana, Togo, Benin",M
+34,33,Dentex spp,,U
+34,33,Dentex spp,South,O
+34,33,Dentex spp,South,O
+34,33,Diplodus spp,South,O
+34,33,Epinephelus aeneus,"Mauritania, Senegal and Gambia",O
+34,33,Epinephelus spp,,O
+34,33,Galeoides decadactylus,Guinea-Bissau,M
+34,33,Galeoides decadactylus,"Côte d’Ivoire, Ghana, Togo, Benin",O
+34,33,Galeoides decadactylus,,O
+34,33,Galeoides decadactylus,South,U
+34,33,Galeoides decadactylus,South,O
+34,33,Lutjanus spp,,O
+34,33,Mullus spp,,O
+34,33,Muraenidae,Cabo Verde,M
+34,33,Pagellus acarne,Morocco,U
+34,33,Pagellus bellottii,"Marocco, Mauritania, Senegal, Gambia",M
+34,33,Pagellus bellottii,South,O
+34,33,Pagellus bellottii,"Côte d’Ivoire, Ghana, Togo, Benin",M
+34,33,Pagellus erythrinus,,O
+34,33,Pagellus spp,,O
+34,33,Pagellus spp,South,O
+34,33,Pagrus caeruleostictus,"Mauritania, Senegal and Gambia",U
+34,33,Pagrus spp,,O
+34,33,Pentanemus quinquarius,"Congo, Gabon",M
+34,33,Plectorhinchus mediterraneus,"Marocco, Mauritania, Senegal, Gambia",M
+34,33,Pomadasys jubelini,,O
+34,33,Pomadasys spp,"Guinea, Guinea-Bissau, Sierra Leone, Liberia",O
+34,33,Pomadasys_spp_3,South,U
+34,33,Pomadasys_spp_4,South,M
+34,33,Pseudotolithus elongatus,"Guinea, Guinea-Bissau",O
+34,33,Pseudotolithus spp,"Côte d’Ivoire, Ghana, Togo, Benin",O
+34,33,Pseudotolithus spp,,O
+34,33,Pseudotolithus spp,South,U
+34,33,Pseudotolithus spp,South,O
+34,33,Pseudotolithus spp,South,O
+34,33,Pseudupeneus prayensis,,O
+34,33,Pseudupeneus prayensis,South,M
+34,33,Serranidae,,M
+34,33,Sparidae,"Guinea, Guinea-Bissau, Sierra Leone",M
+34,33,Sparidae,,M
+34,33,Sparidae,South,O
+34,34,Conger conger,,O
+34,34,Triglidae,,O
+34,37,Brama brama,Mauritania,O
+34,37,Carangidae,"Guinea, Guinea-Bissau",M
+34,37,Carangidae,,O
+34,37,Caranx hippos,,O
+34,37,Caranx spp,Guinea-Bissau,M
+34,37,Caranx spp,"Nigeria, Cameroon",O
+34,37,Chloroscombrus chrysurus,,O
+34,37,Decapterus spp,"Guinea, Liberia",
+34,37,Pomatomus saltatrix,,O
+34,37,Scomber colias,,M
+34,37,Scomber colias,,M
+34,37,Seriola spp,South,U
+34,37,Trachurus trachurus,,M
+34,37,Trachurus trecae,"Guinea, Guinea-Bissau",O
+34,37,Trachurus trecae,"Ghana, Togo, Benin",M
+34,37,Trachurus trecae,,
+34,37,Trachurus trecae,,O
+34,45,Aristeus spp,South,U
+34,45,Aristeus spp,South,O
+34,45,Aristeus spp,South,M
+34,45,Aristeus varidens,Angola,M
+34,45,Aristeus varidens,Mauritania,U
+34,45,Aristeus varidens,South,M
+34,45,Parapenaeus longirostris,Morocco,O
+34,45,Parapenaeus longirostris,Mauritania,U
+34,45,Parapenaeus longirostris,"Senegal, Gambia",U
+34,45,Parapenaeus longirostris,"Guinea, Guinea-Bissau",M
+34,45,Parapenaeus longirostris,South,O
+34,45,Penaeus notalis,Guinea-Bissau,U
+34,45,Penaeus notalis,Gabon,U
+34,45,Penaeus notalis,Congo,M
+34,45,Penaeus notialis,Mauritania,M
+34,45,Penaeus notialis,Senegal Gambia,M
+34,45,Penaeus notialis,South,O
+34,45,,Cameroon,O
+34,57,Loligo vulgaris,,O
+34,57,Loligo vulgaris,,O
+34,57,Octopus vulgaris,,M
+34,57,Octopus vulgaris,,O
+34,57,Octopus vulgaris,Senegal Gambia,O
+34,57,Octopus vulgaris,Guinea-Bissau,M
+34,57,Sepia officinalis,,O
+34,57,Sepia spp,Guinea-Bissau,O
+34,57,Sepia spp,Guinea,U
+34,57,Sepia spp,"Senegal, Gambia",U
+34,57,Sepia spp,,M
+34,57,Sepia spp,,M
+34,57,Sepia spp,South,O
+34,58,Mollusca,,O
+34,,Osteichthyes,,O
+41,38,Mustelus schmitti,AUFZ,O
+41,38,Callorhinchus callorynchus,Argentina,u
+41,38,Galeorhinus galeus,AUFZ,
+41,38,Rajidae,AUFZ,U/F
+41,38,Rajidae,AUFZ,U/F
+41,38,Squalus suckleyi,Argentina,
+41,38,Squatina guggenheim,"AUFZ, Brazil",M/O
+41,38,,Argentina,
+41,36,Katsuwonus pelamis,All,U
+41,36,Scomberomorus cavalla,Brazil,M
+41,35,Sardinella brasiliensis,Brazil,o
+41,35,Engraulis anchoita,Argentina,U
+41,35,Engraulis anchoita,"Argentina, Uruguay",U
+41,35,Brevoortia aurea,AUFZ,
+41,32,Merluccius hubbsi,"Argentina, Uruguay",O
+41,32,Merluccius hubbsi,Argentina,M
+41,32,Merluccius hubbsi,Brazil,O
+41,32,Macruronus magellanicus,"Argentina, Chile",M
+41,32,Micromesistius australis,"Argentina, Mavinas",O
+41,32,Salilota australis,"Argentina, Malvinas",M
+41,32,"Macrourus spp, Macrourus holotrachys, Macrouridae",AUFZ,
+41,32,Merluccius australis,All,O
+41,31,Paralichthys patagonicus,AUFZ,U
+41,33,Micropogonias furnieri,Brazil,O
+41,33,Micropogonias furnieri,Brazil,O
+41,33,Cynoscion acoupa,Brazil,o
+41,33,Cynoscion acoupa,Brazil,M
+41,33,Umbrina canosai,Brazil,O
+41,33,Umbrina canosai,Brazil,O
+41,33,Umbrina canosai,Brazil Argentina Uruguay,O
+41,33,Lutjanus purpureus,Brazil,O
+41,33,Macrodon ancylodon,Brazil,M/O
+41,33,Macrodon ancylodon,Brazil,O
+41,33,Macrodon ancylodon,"Brazil, Argentina, Uruguay",O
+41,33,Pagrus pagrus,"Argentina, Uruguay",M
+41,33,Percophis brasiliensis,"Argentina, Uruguay",M/O
+41,33,Cynoscion striatus,Brazil,M
+41,33,Micropogonias furnieri,AUCFZ,M
+41,33,Cynoscion striatus,"Argentina, Uruguay",M
+41,33,Lutjanus analis,Brazil,O
+41,33,Lutjanus jocu,Brazil,M
+41,33,Ocyurus chrysurus,Brazil,O
+41,33,Epinephelus spp Mycteroperca spp,AUFZ,
+41,33,Lutjanus synagris,Brazil,U
+41,33,Pseudopercis semifasciata,AUFZ,
+41,33,Pogonias cromis,AUFZ,o
+41,33,Diplodus argenteus,AUFZ,M
+41,33,Mugil liza,Brazil,O
+41,33,Mycteroperca bonaci,Brazil,O
+41,33,Epinephelus morio,Brazil,o
+41,33,Menticirrhus americanus,AUFZ,
+41,34,Genypterus blacodes,"Argentina, Mavinas",O
+41,34,Lophius gastrophysus,All,M
+41,34,Seriolella porosa,Argentina,u
+41,34,Helicolenus dactylopterus,Uruguay,M
+41,34,Dissostichus eleginoides,Southern,M
+41,34,Conger orbignianus,AUFZ,o
+41,34,Polyprion americanus,AUFZ,o
+41,34,Prionotus punctatus,Brazil,M/O
+41,34,Prionotus punctatus,Brazil,O
+41,37,Scomber colias,All,U
+41,37,Scomber colias,AUFZ,
+41,37,Pomatomus saltatrix,AUFZ,u
+41,37,Trachurus lathami,Argentina,M
+41,37,Parona signata,AUFZ,o
+41,37,Brama brama,Uruguay,M
+41,42,Chaceon affinis,"Brazil, Uruguay",o
+41,43,Panulirus argus,Brazil,O
+41,44,Lithodes santolla,Argentina,M
+41,45,Pleoticus muelleri,"Brazil, Argentina",M
+41,45,Xiphopenaeus kroyeri,Brazil,u
+41,45,Xiphopenaeus kroyeri,Brazil,M
+41,45,Penaeus schmitti,Brazil,M
+41,45,Penaeus schmitti,Brazil,M
+41,45,Penaeus subtilis,Brazil,M
+41,45,Penaeus subtilis,Brazil,M
+41,45,Artemesia longinaris,"Brazil, Argentina",
+41,45,,"Brazil, Uruguay",
+41,57,Illex argentinus,South West Atlantic,M
+41,57,Doryteuthis (Amerigo) gahi,All,M
+41,55,Zygochlamys patagonica,Argentina,M
+41,33,Netuma barba,AUFZ,
+47,38,Mustelus mustelus,South Africa,M
+47,38,Isurus oxyrinchus,South Africa,M
+47,38,Prionace glauca,South Africa,M
+47,38,Galeorhinus galeus,South Africa,O
+47,38,Mustelus palumbes,South Africa,U
+47,38,Squalus acutipinnis (megalops),South Africa,U
+47,38,Callorhynchus capensis,South Africa,U
+47,38,Dipturus pullopunctatus,South Africa,M
+47,38,Rostroraja alba,South Africa,M
+47,38,Leucoraja wallacei,South Africa,O
+47,38,Raja miraletus/ocellifera,South Africa,O
+47,38,Raja straelini,South Africa,O
+47,38,Squalus mitsukurii,South Africa,O
+47,36,Xiphias gladus,South Africa,O
+47,35,Sardinops sagax,South Africa,M
+47,35,Sardinops sagax,South Africa,M
+47,35,Etrumeus whiteheadi,South Africa,M
+47,35,Engraulis encrasicolus,South Africa,M
+47,35,Sardinops sagax,Namibia,O
+47,32,Merluccius paradoxus,South Africa,U
+47,32,Merluccius capensis,South Africa,U
+47,32,"Merluccius capensis, M. paradoxus",Namibia,O
+47,32,Coelorinchus simorhynchus,South Africa,U
+47,32,Merluccius polli,Angola,O
+47,31,Austroglossus microlepis,Namibia,U
+47,31,Austroglossus pectoralis,South Africa,M
+47,33,Dentex macrophthalmus,Namibia,U
+47,33,Argyrozona argyrozona,South Africa,M
+47,33,Pachymetopon blochii,South Africa,M
+47,33,Argyrosomus inodorus,South Africa,O
+47,33,Atractoscion aequidens,South Africa,O
+47,33,Cheimerius nufar,South Africa,O
+47,33,Chelon richardsonii,South Africa,O
+47,33,Dentex macrophthalmus,Angola,O
+47,33,Pagellus bellottii,Angola,U
+47,33,Pomadasys spp.,Angola,U
+47,33,Chrysoblephus laticeps,South Africa,M
+47,33,Umbrina canariensis,Angola,M
+47,33,Pterogymnus laniarus,South Africa,M
+47,33,Argyrosomus coronus,Angola,O
+47,33,Dentex angolensis,Angola,O
+47,33,Galeoides decadactylus,Angola,O
+47,33,Rhabdosargus globiceps,South Africa,O
+47,33,Brachydeuterus auritus,Angola,O
+47,33,Pseudotolithus spp.,Angola,O
+47,34,Lophius vomenirus,Namibia,U
+47,34,Helicolenus dactylopterus,Namibia,U
+47,34,Genypterus capensis,Namibia,U
+47,34,Thyrsites atun,Namibia,U
+47,34,Thyrsites atun,South Africa,U
+47,34,"Chelidonichthys capensis (C. queketti, Trigla lyra)",Namibia,M
+47,34,Chelidonichthys capensis,South Africa,U
+47,34,Chelidonichthys queketti,South Africa,U
+47,34,Emmelichthys nitidus,South Africa,U
+47,34,Zeus capensis,South Africa,U
+47,34,Genypterus capensis,South Africa,U
+47,34,Lepidopus caudatus,South Africa,U
+47,34,Lophius vomenirus,South Africa,U
+47,34,Hoplostethus atlanticus,Namibia,O
+47,37,Brama brama,Namibia,U
+47,37,Seriola lalandi,South Africa,U
+47,37,Trachurus capensis,Namibia,M
+47,37,Trachurus capensis,South Africa,O
+47,37,Brama brama,South Africa,U
+47,37,Scomber japonicus,South Africa,U
+47,37,Lichia amia,Angola,O
+47,42,Chaceon maritae,Namibia,U
+47,42,Chaceon maritae,Angola,O
+47,43,Palinurus gilchristi,South Africa,M
+47,43,Jasus lalandii,Namibia,O
+47,43,Jasus lalandii,South Africa,O
+47,45,Nematocarninus africanus,Angola,M
+47,45,Parapenaeus longirostris,Angola,M
+47,45,Aristeus varidens,Angola,O
+47,52,Haliotis midae,South Africa,O
+47,57,Todarodes angolensis,Namibia,U
+47,57,Loligo reynaudii,South Africa,M
+51,38,Elasmobranchii,Area 51,O
+51,38,,India Gujarat & DD,M
+51,38,,India Maharashtra,U
+51,38,,India Karnataka,U
+51,38,,India Kerala,O
+51,38,,Pakistan Sindh/Baloc,O
+51,38,Carcharhinus falciformis,Area 51,U
+51,38,Carcharhinus spp,Area 51,O
+51,38,,Area 51,O
+51,38,,India Gujarat & DD,O
+51,38,,India Maharashtra,M
+51,38,,India Karnataka,U
+51,38,Prionace glauca,Indian Ocean,U
+51,38,Prionace glauca,Area 51,M
+51,38,Selachimorpha (Pleurotremata),Area 51,O
+51,38,Sphyrna lewini,Indian Ocean,O
+51,38,,Area 51,M
+51,38,,Area 51,O
+51,38,Batoidea or Batoidimorpha (Hypotremata),Area 51,M
+51,36,Katsuwonus pelamis,Indian Ocean,U
+51,36,Thunnus albacares,Indian Ocean,M
+51,36,Thunnus albacares,Iran Oman Sea,O
+51,36,Thunnus albacares,Area 51,M
+51,36,Auxis rochei,Area 51,U
+51,36,Auxis thazard,Area 51,M
+51,36,"Auxis thazard, A. rochei",India Maharashtra,M
+51,36,"Auxis thazard, A. rochei",India Karnataka,U
+51,36,"Auxis thazard, A. rochei",India Gujarat & DD,O
+51,36,Euthynnus affinis,Indian Ocean,M
+51,36,Scomberomorus commerson,Oman,O
+51,36,Scomberomorus commerson,Saudi Arabia (AG),M
+51,36,Scomberomorus commerson,Saudi Arabia (RS),M
+51,36,Scomberomorus commerson,Qatar,U
+51,36,Scomberomorus commerson,Mozambique,O
+51,36,Gymnosarda unicolor,Area 51,O
+51,36,Gymnosarda unicolor,Saudi Arabia (RS),M
+51,36,Istiophorus platypterus,IOTC (Indian Ocean),M
+51,36,Istiophoridae,Area 51,M
+51,36,Istiophoridae,Area 51,O
+51,36,Istiompax indica,Area 51,M
+51,36,Kajikia audax,Indian Ocean,O
+51,36,Kajikia audax,Area 51,O
+51,36,Thunnus tonggol,Iran AG/Oman Sea,O
+51,36,Thunnus tonggol,UAE,M
+51,36,Xiphias gladius,Indian Ocean,U
+51,36,Thunnus obesus,Indian Ocean,M
+51,36,Thunnus maccoyii,Area 51,M
+51,36,Scomberomorus guttatus,India Kerala,M
+51,36,Scomberomorus guttatus,Indian Ocean,M
+51,36,Scomberomorus spp,India Karnataka,M
+51,36,Scomberomorus spp,India Kerala,M
+51,36,Scomberomorus spp,India Gujarat & DD,U
+51,36,Scomberomorus spp,India Maharashtra,U
+51,36,Makaira nigricans,Indian Ocean,M
+51,36,Makaira nigricans,IOTC (Indian Ocean),O
+51,36,Sarda orientalis,Area 51,M
+51,36,Scomberomorus spp,Area 51,O
+51,36,Acanthocybium solandri,Area 51,M
+51,35,Clupeoids nei,India Gujarat & DD,U
+51,35,Clupeoids nei,South Africa,O
+51,35,Clupeoids nei,India Goa,O
+51,35,Clupeoids nei,India Karnataka,O
+51,35,Sardinella longiceps,India Karnataka,M
+51,35,Sardinella longiceps,India Kerala,U
+51,35,Sardinella longiceps,India Maharashtra,O
+51,35,Sardinella longiceps,India Goa,O
+51,35,Sardinella longiceps,Oman,U
+51,35,Sardinella longiceps,Oman,U
+51,35,Sardinella spp,Area 51,U
+51,35,Sardinella spp,India Goa,U
+51,35,Sardinella spp,India Kerala,U
+51,35,Sardinella spp,India Maharashtra,O
+51,35,Sardinella spp,India Karnataka,O
+51,35,Stolephorus spp,India Maharashtra,M
+51,35,Stolephorus spp,India Karnataka,U
+51,35,Stolephorus spp,India Kerala,O
+51,35,Stolephorus spp,Area 51,M
+51,35,Spratelloides gracilis,Tanzania,M
+51,35,Stolephorus commersonnii,Tanzania,O
+51,35,,Pakistan Sindh/Baloc,O
+51,35,Sardinella albella,Mozambique,M
+51,35,Sardinella gibbosa,Mozambique,U
+51,35,,India Maharashtra,M
+51,35,,Tanzania,M
+51,35,Encrasicholina punctifer,Tanzania,M
+51,35,Thryssa vitrirostris,Mozambique,O
+51,35,,India Maharashtra,O
+51,35,,India Gujarat & DD,O
+51,32,Bregmaceros mcclellandi,Area 51,O
+51,31,Pleuronectiformes,Area 51,M
+51,31,Psettodes erumei,Area 51,M
+51,31,Cynoglossidae,India Karnataka,U
+51,31,Cynoglossidae,India Kerala,U
+51,31,Cynoglossidae,India Gujarat & DD,O
+51,31,Cynoglossidae,India Maharashtra,O
+51,31,Cynoglossidae,Area 51,O
+51,31,Bothus pantherinus,Area 51,U
+51,13,Osteichthyes,Area 51,M
+51,24,Tenualosa ilisha,India Gujarat & DD,M
+51,24,Tenualosa ilisha,India Maharashtra,M
+51,24,Tenualosa ilisha,Area 51,O
+51,24,Hilsa kelee,Mozambique,O
+51,24,Pellona ditchela,Kenya,U
+51,24,Pellona ditchela,Mozambique,O
+51,25,Chanos chanos,,M
+51,25,Chanos chanos,Area 51,M
+51,33,Chirocentrus spp,India Gujarat & DD,O
+51,33,Epinephelus chlorostigma,Seychelles,U
+51,33,Carangidae,India Maharashtra,M
+51,33,Epinephelus chlorostigma,Area 51,M
+51,33,Carangidae,India Goa,U
+51,33,Lethrinidae,Seychelles,M
+51,33,Carangidae,India Kerala,U
+51,33,Lethrinus microdon,Iran Sistan/ Baluchestan Province,O
+51,33,Carangidae,India Maharashtra,O
+51,33,Lethrinus microdon,Qatar,O
+51,33,Carangidae,India Karnataka,O
+51,33,Lutjanus johni,Iran Sistan/ Baluchestan Province,M
+51,33,Carangidae,India Kerala,O
+51,33,Lutjanus johnii,Area 51,U
+51,33,Epinephelus coioides,Saudi Arabia (AG),M
+51,33,Lutjanus malabaricus,Iran Sistan/ Baluchestan Province,M
+51,33,Epinephelus coioides,Oman,M
+51,33,Lutjanus malabaricus,Qatar,M
+51,33,Epinephelus coioides,Qatar,O
+51,33,Lutjanus sebae,Seychelles,M
+51,33,Harpadon nehereus,India Gujarat & DD,M
+51,33,Nemipterus spp,India Gujarat & DD,O
+51,33,Harpadon nehereus,India Maharashtra,U
+51,33,Nemipteridae,Area 51,M
+51,33,Leiognathus spp,India Karnataka,M
+51,33,Platycephalus indicus,Iran Sistan/ Baluchestan Province,M
+51,33,Leiognathus spp,India Maharashtra,M
+51,33,Platycephalus indicus,Area 51,U
+51,33,Leiognathus spp,India Kerala,U
+51,33,Saurida spp,India Karnataka,U
+51,33,Lethrinus lentjan,Area 51,M
+51,33,Saurida spp,India Goa,U
+51,33,Lethrinus lentjan,Saudi Arabia (AG),M
+51,33,Saurida spp,India Gujarat & DD,O
+51,33,Lethrinus lentjan,Saudi Arabia (RS),O
+51,33,Saurida spp,India Maharashtra,O
+51,33,Lethrinus lentjan,Kenya,O
+51,33,Saurida tumbil,Iran Sistan/ Baluchestan Province,O
+51,33,Epinephelus spp,India Karnataka,M
+51,33,Saurida tumbil,Pakistan,M
+51,33,Epinephelus spp,India Kerala,U
+51,33,Sciaenidae,India Goa,U
+51,33,Epinephelus spp,Area 51,O
+51,33,Sciaenidae,India Kerala,U
+51,33,Epinephelus spp,Pakistan Sindh/Baloc,O
+51,33,Sciaenidae,Pakistan Sindh/Baloc,O
+51,33,Epinephelus spp,Area 51,M
+51,33,Serranidae,Seychelles,U
+51,33,,Pakistan Sindh/Baloc,O
+51,33,Serranidae,Area 51,O
+51,33,Plicofollis dussumieri,Mozambique,M
+51,33,Pampus chinensis,India Maharashtra,M
+51,33,Pampus chinensis,India Kerala,U
+51,33,Pampus chinensis,India Gujarat & DD,O
+51,33,Pampus chinensis,India Karnataka,O
+51,33,Pampus argenteus,Iran Sistan/ Baluchestan Province,O
+51,33,Pampus argenteus,Area 51,M
+51,33,Parastromateus niger,Iran Sistan/ Baluchestan Province,M
+51,33,Parastromateus niger,Area 51,M
+51,33,Pomadasys kaakan,Iran Sistan/ Baluchestan Province,O
+51,33,Pomadasys kaakan,Area 51,U
+51,33,Rhabdosargus sarba,Iran Sistan/ Baluchestan Province,O
+51,33,Rhabdosargus sarba,UAE,M
+51,33,,India Gujarat & DD,O
+51,33,,India Maharashtra,O
+51,33,,India Karnataka,O
+51,33,,India Kerala,O
+51,33,Percoidei,Area 51,M
+51,33,,Pakistan Sindh/Baloc,O
+51,33,Lutjanus spp,Area 51,M
+51,33,Otolithes ruber,Iran Sistan/ Baluchestan Province,O
+51,33,Otolithes ruber,Kenya,O
+51,33,Pomadasys spp,Pakistan Sindh/Baloc,O
+51,33,Pomadasys stridens,Area 51,O
+51,33,Pomadasys commersonnii,Oman,M
+51,33,Pomadasys maculatus,Kenya,O
+51,33,,Seychelles,U
+51,33,Siganus javus,Area 51,M
+51,33,Siganus canaliculatus,Oman,M
+51,33,Siganus canaliculatus,Qatar,U
+51,33,Siganus canaliculatus,UAE,M
+51,33,Siganus rivulatus,Saudi Arabia (RS),O
+51,33,Siganus rivulatus,Egypt,O
+51,33,Siganus sutor,Kenya,O
+51,33,Siganus sutor,Tanzania,O
+51,33,Siganus spp,Area 51,U
+51,33,,India Goa,M
+51,33,,India Kerala,M
+51,33,,India Goa,U
+51,33,,India Karnataka,U
+51,33,Trachinotus mookalee,Iran Sistan/ Baluchestan Province,O
+51,33,Trichiurus lepturus,Iran AG/Oman Sea,M
+51,33,Trachinotus blochii,Area 51,M
+51,33,Epinephelus coioides,UAE,M
+51,33,Bolbometopon muricatum,Area 51,M
+51,33,Chrysoblephus puniceus,South Africa,U
+51,33,Chrysoblephus puniceus,Mozambique,M
+51,33,Drepane punctata,Area 51,M
+51,33,Epinephelus bleekeri,Qatar,U
+51,33,Epinephelus bleekeri,UAE,O
+51,33,Epinephelus multinotatus,Area 51,M
+51,33,Diagramma pictum,Qatar,M
+51,33,Diagramma pictum,UAE,O
+51,33,Epinephelus areolatus,Saudi Arabia (AG),M
+51,33,Epinephelus areolatus,Oman,M
+51,33,Epinephelus diacanthus,Oman,M
+51,33,Epinephelus diacanthus,India Northwest,O
+51,33,Epinephelus morrhua,Area 51,M
+51,33,Epinephelus summana,Area 51,M
+51,33,Epinephelus tauvina,Area 51,M
+51,33,Epinephelus polylepis,Qatar,M
+51,33,Epinephelus fuscoguttatus,Area 51,O
+51,33,Epinephelus fasciatus,Reunion,M
+51,33,Epinephelus coeruleopunctatus,Area 51,M
+51,33,Epinephelus radiatus,Reunion,M
+51,33,Epinepheus albomarginatus,Mozambique,O
+51,33,Leiognathidae,Area 51,O
+51,33,Hipposcarus harid,Saudi Arabia (RS),O
+51,33,Haemulidae (=Pomadasyidae),Area 51,M
+51,33,Grammoplites suppositus,India Southwest,U
+51,33,Lepturocanthus savala,Pakistan,O
+51,33,Crenimugil seheli,Qatar,U
+51,33,Lethrinus harak,Area 51,M
+51,33,Lethrinus harak,Kenya,O
+51,33,Lethrinus borbonicus,Tanzania,O
+51,33,Lethrinus borbonicus,UAE,O
+51,33,Lethrinus mahsena,Saudi Arabia (RS),M
+51,33,Lethrinus mahsena,Kenya,O
+51,33,Lethrinus mahsena,Tanzania,O
+51,33,Lethrinus nebulosus,UAE,M
+51,33,Lethrinus nebulosus,Oman,M
+51,33,Lethrinus nebulosus,Mozambique,M
+51,33,Lethrinus nebulosus,Qatar,M
+51,33,Lethrinus rubrioperculatus,Reunion,M
+51,33,Lethrinus obsoletus,Area 51,U
+51,33,Lethrinus spp,Area 51,U
+51,33,Lethrinus xanthochilus,Area 51,M
+51,33,Lutjanidae,Area 51,U
+51,34,Lutjanidae,Seychelles,M
+51,33,Lutjanus gibbus,Area 51,O
+51,33,Lutjanus fulviflamma,Qatar,M
+51,33,Lutjanus fulviflamma,Tanzania,M
+51,33,Lutjanus fulviflamma,Kenya,U
+51,33,Lutjanus coeruleolineatus,Oman,M
+51,33,Lutjanus bohar,Saudi Arabia (RS),M
+51,33,Lutjanus kasmira,Reunion,O
+51,33,Lutjanus kasmira,Area 51,M
+51,33,Lutjanus notatus,Reunion,O
+51,33,Lutjanus quinquelineatus,Area 51,M
+51,33,Lutjanus sanguineus,Mozambique,M
+51,33,Planiliza klunzingeri,Area 51,O
+51,33,Planiliza subviridis,Iraq,U
+51,33,Rhabdosargus haffara,Saudi Arabia (AG),M
+51,33,Crenimugil seheli,UAE,M
+51,33,Polysteganus coeruleopunctatus,Mozambique,O
+51,33,Sparidentex hasta,Area 51,U
+51,33,Plectorhinchus sordidus,Qatar,U
+51,33,Plectorhinchus sordidus,Area 51,M
+51,33,Scarus ghobban,Qatar,M
+51,33,Scarus ghobban,Kenya,M
+51,33,Scarus niger,Tanzania,O
+51,33,Scarus persicus,Area 51,M
+51,33,Variola louti,Saudi Arabia (RS),M
+51,33,Variola louti,Reunion,M
+51,33,Variola albimarginata,Reunion,M
+51,33,Upeneus spp,Area 51,M
+51,33,Upeneus vittatus,Kenya,M
+51,33,Upeneus moluccensis,India Northwest,U
+51,33,Mulloidichthys flavolineatus,Area 51,M
+51,33,Mullidae,Area 51,U
+51,33,Plectorhinchus schotaf,Oman,M
+51,33,Plectorhinchus pictus,Area 51,O
+51,33,Parupeneus margaritatus,Qatar,U
+51,33,Sargocentron spiniferum,Area 51,M
+51,33,Plectorhinchus gaterinus,Area 51,O
+51,33,Pelates quadrilineatus,Area 51,O
+51,33,Parascolopsis aspinosa,Pakistan,O
+51,33,Naso unicornis,Area 51,O
+51,33,Scolopsis bimaculata,Kenya,M
+51,33,Scolopsis taeniata,Area 51,M
+51,33,Sillaginidae,Area 51,O
+51,33,Sillago sihama,Area 51,M
+51,33,Pomacanthus maculosus,Area 51,M
+51,33,Pennahia aneus,Area 51,M
+51,33,Monotaxis grandoculis,Area 51,M
+51,33,Muraenesox spp,Area 51,O
+51,33,Mugil spp,Area 51,M
+51,33,Netuma thalassina,Area 51,M
+51,33,Plectorhinchus spp,Area 51,M
+51,33,Tylosurus crocodilus,Area 51,M
+51,34,Aprion virescens / Pristipomoides filamentosus / Aphareus rutilans,Seychelles,M
+51,34,Beryx splendens,SIOFA,O
+51,34,Beryx decadactylus,Reunion,M
+51,34,Eleutheronema tetradactylum,Iran Sistan/ Baluchestan Province,M
+51,34,Eleutheronema tetradactylum,Area 51,M
+51,34,Trichiurudae,India Maharashtra,M
+51,34,Trichiurudae,India Goa,M
+51,34,Trichiurudae,India Karnataka,M
+51,34,Trichiurudae,India Kerala,M
+51,34,Trichiurudae,India Gujarat & DD,O
+51,34,Trichiurus spp,Area 51,M
+51,34,Trichiurus spp,Pakistan Sindh/Baloc,O
+51,34,Sparidae / Lethrinus spp,Pakistan Sindh/Baloc,O
+51,34,,India Maharashtra,O
+51,34,Nemipterus spp,India Karnataka,O
+51,34,Nemipterus spp,Pakistan Sindh/Baloc,O
+51,34,Nemipterus japonicus,Pakistan,O
+51,34,Nemipterus randalli,Pakistan,O
+51,34,,Pakistan Sindh/Baloc,O
+51,34,,Seychelles,O
+51,34,Aphareus rutilans,Saudi Arabia (RS),M
+51,34,Aphareus rutilans,Reunion,M
+51,34,Cheimerius nufar,UAE,U
+51,34,Cheimerius nufar,Oman,M
+51,34,Cheimerius nufar,Mozambique,O
+51,34,Gerres longirostris,Qatar,U
+51,34,Gerres longirostris,UAE,M
+51,34,Muraenesox bagio,India Northwest,M
+51,34,Muraenesox bagio,India Southwest,U
+51,34,Acanthopagrus latus,Area 51,U
+51,34,Acanthopagrus latus,Qatar,U
+51,34,Acanthopagrus bifasciatus,Qatar,U
+51,34,,Area 51,M
+51,34,Argyrops spinifer,Area 51,M
+51,34,Nemipterus bipunctatus,Qatar,U
+51,34,Acanthopagrus berda,Area 51,U
+51,34,Cephalopholis argus,Area 51,M
+51,34,Cephalopholis aurantia,Reunion,O
+51,34,Cephalopholis hemistiktos,Area 51,U
+51,34,Cephalopholis miniata,Area 51,M
+51,34,Leptoscarus vaigiensis,Tanzania,M
+51,34,Leptoscarus vaigiensis,Kenya,O
+51,34,Plectropomus areolatus,Area 51,M
+51,34,Saudi Arabia (RS),Saudi Arabia (RS),M
+51,34,Plectropomus pessuliferus,Area 51,M
+51,34,Plectropomus pessuliferus,Saudi Arabia (RS),M
+51,34,Aethaloperca rogaa,Area 51,M
+51,34,Aprion virescens,Reunion,O
+51,34,Pristipomoides argyrogrammicus,Reunion,O
+51,34,Pristipomoides filamentosus,Mozambique,M
+51,34,Pristipomoides filamentosus,Reunion,O
+51,34,Pristipomoides multidens,Reunion,M
+51,34,Etelis carbunculus,Reunion,O
+51,34,Etelis coruscans,Reunion,O
+51,34,Acanthurus sohal,Area 51,M
+51,34,Gerres oyena,Area 51,U
+51,34,Gerres spp,Area 51,M
+51,34,,Area 51,M
+51,34,Polynemidae,Area 51,O
+51,34,Priacanthus hamrur,India Southwest,U
+51,34,Priacanthus hamrur,India Northwest,U
+51,34,Protonibea diacanthus,Iran Sistan/ Baluchestan Province,O
+51,37,Rastrelliger kanagurta,India Kerala,U
+51,37,Rastrelliger kanagurta,India Karnataka,O
+51,37,Rastrelliger kanagurta,India Maharashtra,O
+51,37,Rastrelliger kanagurta,Kenya,O
+51,37,Rastrelliger kanagurta,UAE,O
+51,37,Rastrelliger kanarguta,Oman,U
+51,37,Scombridae,Seychelles,U
+51,37,Scomberoides spp,Area 51,O
+51,37,Trachurus spp,Area 51,M
+51,37,Megalaspis cordyla,India Maharashtra,U
+51,37,Scomberoides spp,Area 51,M
+51,37,Megalaspis cordyla,India Karnataka,U
+51,37,Scomberoides commersonnianus,Iran Sistan/ Baluchestan Province,O
+51,37,Megalaspis cordyla,India Kerala,U
+51,37,Scomberoides commersonnianus,UAE,M
+51,37,Megalaspis cordyla,Area 51,M
+51,37,Decapterus russelli,Oman,M
+51,37,Decapterus spp,Area 51,U
+51,37,Parastromateus niger,India Goa,U
+51,37,Parastromateus niger,India Kerala,U
+51,37,Parastromateus niger,India Maharashtra,O
+51,37,Parastromateus niger,India Karnataka,O
+51,37,Pampus chinensis,Pakistan Sindh/Baloc,O
+51,37,Eumegistus illustris,Reunion,M
+51,37,Sphyraena barracuda,Area 51,U
+51,37,Sphyraena flavicauda,Qatar,U
+51,37,Sphyraena flavicauda,Kenya,O
+51,37,Sphyraena jello,Area 51,U
+51,37,Sphyraena putnamae,India Southwest,U
+51,37,Sphyraenidae,Seychelles,M
+51,37,Trachurus indicus,Oman,M
+51,37,Rachycentron canadum,Qatar,M
+51,37,Lactarius lactarius,Area 51,O
+51,37,Rachycentron canadum,UAE,M
+51,37,Lactarius lactarius,India Northwest,U
+51,37,Rachycentron canadum,India Southwest,M
+51,37,Lactarius lactarius,India Southwest,U
+51,37,Gnathanodon speciosus,Area 51,M
+51,37,Platycaranx malabaricus,Qatar,U
+51,37,Platycaranx malabaricus,UAE,O
+51,37,Platycaranx chrysophrys,Oman,M
+51,37,Flavocaranx bajad,Qatar,O
+51,37,Flavocaranx bajad,UAE,M
+51,37,Caranx melampygus,Reunion,M
+51,37,Caranx ignobilis,Area 51,M
+51,37,Alepes djedaba,Area 51,U
+51,37,Coryphaena hippurus,India Northwest,U
+51,37,Coryphaena hippurus,India Southwest,U
+51,37,Caranx spp,Area 51,M
+51,37,Carangidae,Seychelles,M
+51,37,Hemiramphus far,Kenya,M
+51,37,Turrum gymnostethus,Qatar,U
+51,37,Ablennes hians,India Southwest,U
+51,37,Ablennes hians,India Northwest,U
+51,37,,Area 51,O
+51,39,Hoplostethus atlanticus,SIOFA,O
+51,39,,Kenya,O
+51,42,Portunidae,India Gujarat & DD,O
+51,42,Portunidae,India Kerala,M
+51,42,Portunidae,India Karnataka,U
+51,42,Portunidae,India Maharashtra,O
+51,42,Brachyura,Area 51,M
+51,42,Portunus pelagicus,Qatar,M
+51,42,Portunus pelagicus,UAE,M
+51,42,Chaceon macphersoni,South Africa,O
+51,42,Scylla serrata,Madagascar,O
+51,42,Chaceon spp,Area 51,O
+51,42,Charybdis feriatus,India Southwest,U
+51,43,Metanephrops mozambicus,South Africa,M
+51,43,Metanephrops mozambicus,Mozambique,U
+51,43,Panulirus spp,Area 51,O
+51,43,Panulirus spp,Area 51,M
+51,43,Panulirus versicolor,Kenya,M
+51,43,Panulirus penicillatus,Kenya,M
+51,43,Panulirus ornatus,Kenya,M
+51,43,Panulirus longipes,Kenya,M
+51,43,Panulirus homarus,Kenya,M
+51,43,Panulirus homarus,Madagascar,O
+51,43,Panulirus homarus,Oman,O
+51,43,Palinurus delagoae,South Africa,M
+51,43,Palinurus delagoae,Mozambique,O
+51,43,Jasus paulensis,Area 51,O
+51,44,,India Northwest,O
+51,44,,India Southwest,O
+51,45,Palaemonidae,India Maharashtra,M
+51,45,Penaeidae,India Gujarat & DD,O
+51,45,Penaeidae,India Maharashtra,O
+51,45,Penaeidae,India Kerala,O
+51,45,Penaeidae,India Karnataka,U
+51,45,Penaeidae,India Goa,M
+51,45,Penaeidae,Madagascar,M
+51,45,Penaeus spp,Area 51,M
+51,45,Penaeus spp,Pakistan Sindh/Baloc,O
+51,45,Penaeus spp,Kenya,U
+51,45,Penaeus spp,Kenya,O
+51,45,Penaeus monodon,Area 51,M
+51,45,Penaeus monodon,Kenya,O
+51,45,Penaeus semisulcatus,Area 51,U
+51,45,Penaeus semisulcatus,Kenya,O
+51,45,Penaeus indicus,Tanzania,M
+51,45,Penaeus indicus,Mozambique,O
+51,45,Penaeus indicus,Kenya,O
+51,45,Parapenaeopsis spp,Pakistan Sindh/Baloc,O
+51,45,Parapenaeopsis spp,Area 51,O
+51,45,Palinuridae,Area 51,O
+51,45,Metapenaeus spp,Area 51,O
+51,45,Metapenaeus stebbingi,Kenya,O
+51,45,Metapenaeus monoceros,Kenya,O
+51,45,Metapenaeus monoceros,Tanzania,M
+51,45,Haliporoides triarthus,South Africa,O
+51,45,,Mozambique,M
+51,45,Haliporoides triarthrus,Mozambique,M
+51,45,,India Southwest,U
+51,45,,India Northwest,U
+51,45,Aristaeomorpha foliacae,Mozambique,O
+51,45,Aristeus alcocki,India Southwest,U
+51,47,,Area 51,O
+51,57,Cephalopoda,India Kerala,M
+51,57,Cephalopoda,India Kerala,U
+51,57,Cephalopoda,India Karnataka,M
+51,57,Cephalopoda,Area 51,O
+51,57,Sepia pharaonis,Qatar,U
+51,57,Sepia pharaonis,India Southwest,U
+51,57,Sepiella inermis,India Northwest,U
+51,57,"Loliginidae, Ommastrephidae",Area 51,M
+51,57,Octopodidae,Area 51,U
+51,57,Octopus cyanea,Madagascar,M
+51,57,Octopus cyanea,Comoros,U
+51,57,Octopus cyanea,Tanzania,O
+51,57,"Sepiidae, Sepiolidae",Area 51,U
+51,58,,Area 51,O
+51,58,,Area 51,O
+51,76,Thelenota ananas,Seychelles,M
+51,76,Holothuria fuscogilva,Seychelles,O
+51,76,Holothuria spp,Seychelles,O
+51,76,Holothuroidea,Area 51,O
+57,22,Anguilla australis,Area 57,M
+57,24,Tenualosa ilisha,India (N BoB),O
+57,24,Tenualosa ilisha,Bangladesh,M
+57,24,Anodontostoma chacunda,Area 57,M
+57,24,Pellona ditchela,Area 57,O
+57,24,Tenualosa toli,Area 57,M
+57,25,Lates calcarifer,Area 57,M
+57,31,Cynoglossidae,India (O),M
+57,31,Cynoglossidae,India (WB),O
+57,31,Cynoglossidae,India (AP),M
+57,31,Pleuronectiformes,Area 57,M
+57,31,Psettodes erumei,Area 57,M
+57,32,Bregmaceros mcclellandi,Area 57,M
+57,32,Macruronus novaezelandiae,Area 57,M
+57,33,Aluterus monoceros,India (O),M
+57,33,Ariidae,Bangladesh,O
+57,33,Eleutheronema tetradactylum,Malaysia (WCP),O
+57,33,Epinephelus spp,India (AP),M
+57,33,Epinephelus spp,Malaysia (WCP),O
+57,33,Harpadon nehereus,India (WB & O),O
+57,33,Harpadon nehereus,Bangladesh,O
+57,33,Leiognathidae,India (WB & O),M
+57,33,Leiognathidae,India (A&NI),M
+57,33,Leptomelanosoma indicum,Bangladesh,O
+57,33,Lethrinidae,India (TN),M
+57,33,Lutjanus fulvus,India (SE),M
+57,33,Lutjanus johnii,India (SE),M
+57,33,Lutjanus quinquilineatus,India (SE),M
+57,33,Lutjanus sebae,Malaysia (WCP),U
+57,33,Mugilidae,India (A&NI),M
+57,33,Mullidae,Malaysia (WCP),U
+57,33,Mullidae,India (O),M
+57,33,Mullidae,India (P),O
+57,33,Mullidae,India (TN),O
+57,33,Nemipterus bipunctatus,Thailand (AS),M
+57,33,Nemipterus spp,India (TN),O
+57,33,Nemipterus spp,Malaysia (WCP),O
+57,33,Osteogeneiosus militaris,Malaysia (WCP),O
+57,33,Otolithes cuvieri,Bangladesh,O
+57,33,Pennahia anea,Bangladesh,M
+57,33,Percoidae,India (O),O
+57,33,Percoidae,India (TN),M
+57,33,Percoidae,India (WB),U
+57,33,Percoidae,India (A&NI),O
+57,33,Platycephalus spp,India (SE),M
+57,33,Plotosus canius,Malaysia (WCP),U
+57,33,Polynemidae,India (O),U
+57,33,Pomadasys kaakan,India (SE),M
+57,33,Priacanthus tayenus,Thailand (AS),U
+57,33,Saurida elongata,Thailand (AS),U
+57,33,Saurida spp,India (AP & TN),O
+57,33,Saurida spp,Malaysia (WCP),O
+57,33,Saurida spp,India (O),M
+57,33,Saurida undosquamis,Thailand (AS),M
+57,33,Sciaenidae,India (O),M
+57,33,Sciaenidae,India (TN),U
+57,33,Sciaenidae,India (WB),U
+57,33,Sciaenidae,Malaysia (WCP),O
+57,33,Tachysuridae,India (WB & O),O
+57,33,Z_Aggregate group coral fishes,Indonesia (J 573),O
+57,33,Z_Aggregate group demersal fish,Indonesia (S-572),M
+57,33,Z_Assemblage demersal fish,Thailand (AS),O
+57,33,Z_Assemblage Trawl demersal fish,Malaysia (WCP-ZBC),O
+57,33,Z_Aggregate group coral fishes,Indonesia (MS 571),U
+57,33,Z_Aggregate group demersal fish,Indonesia (MS 571),U
+57,33,Nelusetta ayraud,Australia (WA),U
+57,33,Neoplatycephalus contatus,Australia (WA),U
+57,33,Cheilodactylus spectabilis,Australia (T),U
+57,33,Chrysophrys auratus,Australia (S-GSV),O
+57,33,Chrysophrys auratus,Australia (S-SG),O
+57,33,Sillaginodes punctatus,Australia (S),U
+57,33,Ariidae,Area 57,M
+57,33,Arripis georgianus,Area 57,O
+57,33,Arripis trutta,Area 57,O
+57,33,Balistidae,Area 57,M
+57,33,Caesionidae,Area 57,M
+57,33,Drepane punctata,Area 57,O
+57,33,Engraulidae,Area 57,M
+57,33,Haemulidae (=Pomadasyidae),Area 57,M
+57,33,Leiognathidae,Area 57,M
+57,33,Leiognathus spp,Area 57,M
+57,33,Lutjanidae,Area 57,M
+57,33,Megalops cyprinoides,Area 57,M
+57,33,Monacanthidae,Area 57,O
+57,33,Mugilidae,Area 57,M
+57,33,Nemipterus spp,Area 57,M
+57,33,Pagrus auratus,Area 57,O
+57,33,Perciformes,Area 57,M
+57,33,Percoidei,Area 57,O
+57,33,Platycephalus indicus,Area 57,M
+57,33,Plotosus spp,Area 57,M
+57,33,Scolopsis spp,Area 57,M
+57,33,Serranidae,Area 57,M
+57,33,Siganus spp.,Area 57,M
+57,33,Sillago sihama,Area 57,M
+57,33,Sparidae,Area 57,M
+57,33,Synodontidae,Area 57,M
+57,33,Upeneus spp,Area 57,M
+57,33,Z_Aggregate group coral fishes,Indonesia (S-572),U
+57,33,Z_Aggregate group demersal fish,Indonesia (J 573),U
+57,34,Trichiuridae,India (O & WB),M
+57,34,Trichiuridae,India (AP & TN),U
+57,34,Centroberyx gerrardi,Australia (WA),U
+57,34,Chelidonichthys kumu,Area 57,M
+57,34,Genypterus blacodes,Area 57,M
+57,34,Hoplostethus atlanticus,Area 57,M
+57,34,Muraenesox spp,Area 57,M
+57,34,Pterygotrigla polyommata,Area 57,M
+57,34,Rexea solandri,Area 57,M
+57,34,Thyrsites atun,Area 57,O
+57,34,Trichiuridae,Area 57,M
+57,34,Trichiurus lepturus,Area 57,M
+57,34,Zenopsis nebulosus,Area 57,U
+57,34,Zeus faber,Area 57,M
+57,35,Amblygaster sirm,Sri Lanka,O
+57,35,Chirocentrus dorab,India (WB),U
+57,35,Clupeidae,India (TN),U
+57,35,Clupeidae,India (WB & O),O
+57,35,Coilia spp.,India (AP & TN),U
+57,35,Coilia spp.,India (WB),U
+57,35,Dussumieria acuta,Bangladesh,U
+57,35,Dussumieria elapsoides,Bangladesh,U
+57,35,Engraulidae,Malaysia (WCP),M
+57,35,Engraulidae,India (A&NI),M
+57,35,Sardinella fimbriata,Bangladesh,O
+57,35,Sardinella gibbosa,Thailand (AS),U
+57,35,Sardinella gibbosa,Sri Lanka,M
+57,35,Sardinella longiceps,India (TN),M
+57,35,Sardinella spp,Bangladesh,O
+57,35,Sardinella spp,India,O
+57,35,Sardinella spp,India (O & WB),M
+57,35,Sardinella spp,India (TN),O
+57,35,Sardinella spp,India (A&NI),M
+57,35,Sardinops sagax,Thailand (AS),U
+57,35,Setipinna spp.,India (WB & O),U
+57,35,Sphyraenidae,India (A&NI),M
+57,35,Thryssa spp.,India (TN),U
+57,35,Thryssa spp.,India (WB & O),O
+57,35,Z_Aggregate group small pelagics,Indonesia (MS 571),M
+57,35,Z_Assemblage anchovies,India (O),O
+57,35,Z_Assemblage pelagic fish,Thailand (AS),O
+57,35,Z_Assemblage trawl pelagic fish,Malaysia (WCP-ZBC),M
+57,35,Z_Aggregate group small pelagics,Indonesia (J 573),O
+57,35,Sardinops sagax,Australia (T),U
+57,35,Sardinops sagax,Australia (S),U
+57,35,Chirocentrus spp,Area 57,M
+57,35,Clupeoidei,Area 57,M
+57,35,Sardinella gibbosa,Area 57,M
+57,35,Sardinella lemuru,Area 57,M
+57,35,Sardinella spp,Area 57,M
+57,35,Stolephorus spp,Area 57,M
+57,35,Z_Aggregate group small pelagics,Indonesia (S-572),U
+57,36,Auxis spp.,India (P),O
+57,36,Scomberomorus commerson,Malaysia (WCP),O
+57,36,Scomberomorus commerson,India (O),U
+57,36,Scomberomorus commerson,India (TN),U
+57,36,Scomberomorus commerson,Indian Ocean (IOTC),M
+57,36,Scomberomorus guttatus,Malaysia (WCP),O
+57,36,Scomberomorus guttatus,India (WB),U
+57,36,Scomberomorus guttatus,India (AP & TN),O
+57,36,Z_Aggregate group large pelagics,Indonesia (S-572),M
+57,36,Auxis spp.,Indonesia (SS),M
+57,36,Scomberomorus commerson,Indonesia (SS),M
+57,36,Z_Aggregate group large pelagics,Indonesia (J 573),O
+57,36,Acanthocybium solandri,Area 57,M
+57,36,Auxis rochei,Area 57,M
+57,36,Auxis thazard,Area 57,M
+57,36,Euthynnus affinis,Indian Ocean (IOTC),M
+57,36,Gymnosarda unicolor,Area 57,M
+57,36,Istiompax indica,Indian Ocean (IOTC),M
+57,36,Istiophorus platypterus,Indian Ocean (IOTC),M
+57,36,Kajikia audax,Indian Ocean (IOTC),O
+57,36,Makaira nigricans,Indian Ocean (IOTC),O
+57,36,Sarda orientalis,Area 57,M
+57,36,Scomberomorus lineolatus,Area 57,M
+57,36,Thunnus tonggol,Indian Ocean (IOTC),M
+57,36,Xiphias gladius,Indian Ocean (IOTC),M
+57,36,Z_Aggregate group large pelagics,Indonesia (MS 571),U
+57,37,Carangidae,India (O),U
+57,37,Carangidae,India (TN),U
+57,37,Carangidae,India (WB),U
+57,37,Carangidae,India (AP & TN),M
+57,37,Coryphaena hippurus,India (SE),M
+57,37,Megalaspis cordyla,India (AP),O
+57,37,Megalaspis cordyla,India (O),O
+57,37,Megalaspis cordyla,Malaysia (WCP),O
+57,37,Pampus argenteus,Bangladesh,O
+57,37,Pampus argenteus,India (WB & O),M
+57,37,Pampus argenteus,India (AP & TN),M
+57,37,Pampus chinensis,Bangladesh,U
+57,37,Parastromateus niger,India (AP & TN),U
+57,37,Rastrelliger brachysoma,Malaysia (WCP),U
+57,37,Rastrelliger brachysoma,Thailand (AS),U
+57,37,Rastrelliger kanagurta,Malaysia (WCP),O
+57,37,Rastrelliger kanagurta,India (O),O
+57,37,Rastrelliger kanagurta,Thailand (AS),O
+57,37,Rastrelliger kanagurta,India (AP & TN),M
+57,37,Rastrelliger spp,India (A&NI),M
+57,37,Selar boops,Malaysia (WCP),O
+57,37,Sphyraena putnamae,India (AP),U
+57,37,Sphyraena spp,India (TN),U
+57,37,Rastrelliger spp,Indonesia (SS),O
+57,37,Scomberoides leptolepis,Indonesia (SS),O
+57,37,Scomber australasicus,Australia (WA),U
+57,37,Hyporhamphus melanochir,Australia (S),M
+57,37,Scomber australasicus,Australia (S),U
+57,37,Caranx spp,Area 57,M
+57,37,Decapterus russelli,Area 57,M
+57,37,Decapterus spp,Area 57,M
+57,37,Exocoetidae,Area 57,M
+57,37,Megalaspis cordyla,Area 57,M
+57,37,Pomatomus saltatrix,Area 57,O
+57,37,Rachycentron canadum,Area 57,M
+57,37,Rastrelliger brachysoma,Area 57,M
+57,37,Rastrelliger spp,Area 57,M
+57,37,Scomberoides spp,Area 57,M
+57,37,Scombridae,Area 57,M
+57,37,Selaroides leptolepis,Area 57,M
+57,37,Seriola spp,Area 57,O
+57,37,Seriolina nigrofasciata,Area 57,M
+57,37,Sphyraena spp,Area 57,M
+57,37,Stromateidae,Area 57,M
+57,38,Dasyaitadae/ Mobulidae/ Gymnuridae,India (AP),M
+57,38,Dasyaitadae/ Mobulidae/ Gymnuridae,India (O),U
+57,38,Dasyaitadae/ Mobulidae/ Gymnuridae,India (P),O
+57,38,Dasyaitadae/ Mobulidae/ Gymnuridae,India (TN),U
+57,38,Elasmobranchii,India (O),U
+57,38,Elasmobranchii,India (TN),U
+57,38,Elasmobranchii,India (WB),M
+57,38,Elasmobranchii,India (AP),U
+57,38,Elasmobranchii,India (A&NI),M
+57,38,Rhinobatos lionotus,India (NE),O
+57,38,Callorhinchus milii,Australia (S),U
+57,38,Galeorhinus galeus,Australia (S),O
+57,38,Mustelus antarcticus,Australia (S),U
+57,38,"Pristiophorus cirratus, P. nudipinnis",Australia (S),U
+57,38,Alopias spp,Area 57,M
+57,38,Carcharhinus falciformis,Area 57,M
+57,38,Carcharhinus longimanus,Area 57,M
+57,38,Isurus oxyrinchus,Area 57,M
+57,38,Mustelus antarcticus,Area 57,M
+57,38,Prionace glauca,Indian Ocean (IOTC),U
+57,38,Rajiformes,Area 57,M
+57,38,Sphyrnidae,Area 57,M
+57,42,Portunidae,India (WB & O),O
+57,42,Portunus pelagicus,Indonesia (MS 571),M
+57,42,Portunus pelagicus,India (TN-Palk Bay),M
+57,42,Z_Aggregate group crabs,India (A&NI),M
+57,42,Z_Aggregate group crabs,Indonesia (MS 571),M
+57,42,Portunus pelagicus,Indonesia (J 573),U
+57,42,Portunus pelagicus,Indonesia (S-572),U
+57,42,Z_Aggregate group crabs,Indonesia (S-572),U
+57,42,Scylla serrata,Area 57,M
+57,42,Z_Aggregate group crabs,Indonesia (J 573),U
+57,43,Palinuridae,Sri Lanka,O
+57,43,Pandalidae,India (AP),M
+57,43,Thenus unimaculatus,India (NE),O
+57,43,Thenus unimaculatus,India (SE),M
+57,43,Z_Aggregate group lobster,Indonesia (S-572),M
+57,43,Z_Aggregate group lobster,Indonesia (J 573),M
+57,43,Metanephrops australiensis,Australia (WA),M
+57,43,Panulirus cygnus,Australia (WA),U
+57,43,Jasus edwardsii,Australia (S),U
+57,43,Scyllaridae,Area 57,M
+57,43,Thenus orientalis,Area 57,M
+57,43,Z_Aggregate group lobster,Indonesia (MS 571),O
+57,45,Acetes japonicus,Malaysia (WCP),O
+57,45,Metapenaeus monoceros,Bangladesh,O
+57,45,Pandalidae,India (O),O
+57,45,Pandalidae,India (TN),U
+57,45,Penaeus / Metapenaeus,India (AP),O
+57,45,Penaeus / Metapenaeus,Malaysia (WCP),U
+57,45,Penaeus / Metapenaeus,India (O),M
+57,45,Penaeus / Metapenaeus,India (P),O
+57,45,Penaeus / Metapenaeus,India (TN),U
+57,45,Penaeus / Metapenaeus,India (WB),O
+57,45,Penaeus merguiensis,Thailand (AS),M
+57,45,Penaeus monodon,Bangladesh,M
+57,45,Portunidae,Malaysia (WCP),O
+57,45,Portunus pelagicus,Sri Lanka,M
+57,45,Portunus pelagicus,Thailand (AS),U
+57,45,Z_Assemblage trawl crustaceans,Malaysia (WCP-ZBC),O
+57,45,Z_Aggregate group peneaid shrimp,Indonesia (MS 571),O
+57,45,Z_Aggregate group peneaid shrimp,Indonesia (S-572),O
+57,45,Penaeus merguiensis,Area 57,M
+57,45,Penaeus semisulcatus,Area 57,M
+57,45,Penaeus spp,Area 57,M
+57,45,Sergestidae,Area 57,M
+57,45,Z_Aggregate group peneaid shrimp,Indonesia (J 573),O
+57,53,Crassostrea spp,Area 57,M
+57,55,Pecten fumatus,Australia (V),U
+57,55,Pectinidae,Area 57,M
+57,56,Donax deltoides,Australia (S),U
+57,56,Meretrix spp,Area 57,M
+57,56,Paphies australis,Area 57,M
+57,56,Tegillarca granosa,Area 57,M
+57,57,Sepia aculeata,India (AP),M
+57,57,Squids Cuttlefishes Octopus,India (TN),O
+57,57,Uroteithis duvauceli,India (TN),O
+57,57,Uroteithis duvauceli,Thailand (AS),M
+57,57,Z_Aggregate group squids,Indonesia (MS 571),M
+57,57,Z_Aggregate group squids,Malaysia (WCP),U
+57,57,Z_Aggregate group squids,Indonesia (J 573),O
+57,57,Nototodarus gouldi,Australia (S),U
+57,57,Sepioteuthis australis,Australia (S),U
+57,57,Cephalopoda,Area 57,M
+57,57,"Loliginidae, Ommastrephidae",Area 57,M
+57,57,Loligo spp,Area 57,M
+57,57,Octopodidae,Area 57,M
+57,57,Sepiidae Sepiolidae,Area 57,M
+57,57,Z_Aggregate group squids,Indonesia (S-572),U
+57,76,Holothuroidea,Sri Lanka,O
+57,77,Rhopilema spp,Area 57,M
+61,36,Scomberomorus niphonius,Japan,O
+61,36,Scomberomorus spp,China,M
+61,36,Scomberomorus niphonius,Korea,U
+61,35,Clupea pallasii,China,M
+61,35,Clupea pallasii,Russia,M
+61,35,Clupea pallasii,Russia,U
+61,35,Engraulis japonicus,Japan,M
+61,35,Engraulis japonicus,Japan,U
+61,35,Engraulis japonicus,Japan,O
+61,35,Engraulis japonicus,Korea,M
+61,35,Engraulis japonicus,China,U
+61,35,Etrumeus teres,Japan,U
+61,35,Sardinops melanostictus,Japan,U
+61,35,Sardinops melanostictus,Japan,O
+61,35,Sardinops melanostictus,China,O
+61,32,Albatrossia pectoralis,Russia,
+61,32,Albatrossia pectoralis,Russia,
+61,32,Albatrossia pectoralis,Russia,
+61,32,Albatrossia pectoralis,Russia,
+61,32,Gadus chalcogrammus,SDG,M
+61,32,Gadus chalcogrammus,Japan,U
+61,32,Gadus chalcogrammus,Japan,O
+61,32,Gadus chalcogrammus,Russia,M
+61,32,Gadus chalcogrammus,Russia,M
+61,32,Gadus chalcogrammus,Russia,U
+61,32,Gadus chalcogrammus,Russia,U
+61,32,Gadus chalcogrammus,Russia,U
+61,32,Gadus chalcogrammus,Russia,O
+61,32,Gadus macrocephalus,Japan,M
+61,32,Gadus macrocephalus,Japan,U
+61,32,Gadus macrocephalus,SDG,O
+61,32,Gadus macrocephalus,Russia,M
+61,32,Gadus macrocephalus,Russia,M
+61,32,Gadus macrocephalus,Russia,U
+61,32,Gadus macrocephalus,Russia,U
+61,32,Gadus macrocephalus,Russia,O
+61,31,Cleisthenes herzensteini,Japan,U
+61,31,Cleisthenes herzensteini,Japan,U
+61,31,Eopsetta grigorjewi,Japan,O
+61,31,Glyptocephalus kitaharai,Japan,U
+61,31,Hippoglossoides dubius,Japan,U
+61,31,Paralichthys olivaceus,Japan,M
+61,31,Paralichthys olivaceus,Japan,U
+61,31,Paralichthys olivaceus,Japan,O
+61,31,Paralichthys olivaceus,Japan,O
+61,31,Pleuronectiformes,Russia,
+61,31,Pleuronectiformes,Russia,
+61,31,Pseudopleuronectes herzensteini,Japan,O
+61,31,Reinhardtius hippoglossoides,Russia,O
+61,33,Ammodytes personatus,China,M
+61,33,Cantherhines (=Navodon) spp,Area at large,O
+61,33,Larimichthys polyactis,China,M
+61,33,Larimichthys polyactis,Korea,O
+61,33,Liza haematocheilus,Area at large,U
+61,33,Miichthys miiuy,China,M
+61,33,Pagrus major,Japan,U
+61,33,Pagrus major,Japan,O
+61,33,Pagrus major,Japan,O
+61,33,Pleurogrammus azonus,Japan,O
+61,33,Takifugu rubripes,Japan,M
+61,33,Takifugu rubripes,Japan,O
+61,34,Arctoscopus japonicus,Korea,O
+61,34,Beryx decadactylus,Japan,M
+61,34,Muraenesox cinereus,Area at large,U
+61,34,Trichiurus lepturus,China,M
+61,34,Trichiurus lepturus,Korea,O
+61,37,Cololabis saira,NPFC,O
+61,37,Decapterus maruadsi,China,M
+61,37,Scomber australasicus,Japan,O
+61,37,Scomber australasicus,Japan,O
+61,37,Scomber japonicus,Japan,O
+61,37,Scomber Japonicus,NPFC,O
+61,37,Scomber japonicus,China,M
+61,37,Seriola quinqueradiata,Japan,M
+61,37,Trachurus japonicus,Japan,M
+61,37,Trachurus japonicus,Japan,O
+61,37,Trachurus japonicus,China,O
+61,23,Mizuhopecten yessoensis,Area at large,U
+61,23,Oncorhynchus gorbuscha,Area at large,O
+61,24,Clupanodon thrissa,Korea,U
+61,39,Actinopterygii,Area at large,O
+61,42,Brachyura,Area at large,U
+61,42,Chionoecetes japonicus,Korea,U
+61,42,Chionoecetes opilio,Japan,M
+61,42,Chionoecetes opilio,Korea,U
+61,42,Portunus trituberculatus,Korea,M
+61,42,Portunus trituberculatus,China,M
+61,44,Paralithodes camtschaticus,Russia,U
+61,45,Penaeus chinensis,Area at large,U
+61,45,Trachysalambria curvirostris,China,U
+61,55,Oncorhynchus keta,Area at large,O
+61,57,Octopodidae,Korea,M
+61,57,Sepiidae,Area at large,M
+61,57,"Sepiidae, Sepiolidae",Korea,O
+61,57,Todarodes pacificus,Japan,O
+61,57,Todarodes pacificus,Japan,O
+61,58,Mollusca,Area at large,M
+67,35,Clupea pallasii,Canada,M
+67,35,Clupea pallasii,Canada,M
+67,35,Clupea pallasii,Canada,M
+67,35,Clupea pallasii,Canada,M
+67,35,Clupea pallasii,Canada,M
+67,35,Clupea pallasii,USA,M
+67,32,Sardinops sagax,Canada,O
+67,32,Gadus macrocephalus,Canada,M
+67,32,Merluccius productus,Canada,M
+67,32,Gadus chalcogrammus,Canada,M
+67,32,Gadus macrocephalus,USA,M
+67,32,Gadus macrocephalus,USA,M
+67,32,Gadus macrocephalus,USA,M
+67,32,Merluccius productus,USA,M
+67,32,Gadus chalcogrammus,USA,M
+67,32,Gadus chalcogrammus,USA,M
+67,32,Gadus chalcogrammus,USA,M
+67,32,Gadus chalcogrammus,USA,M
+67,33,Ophiodon elongatus,Canada,M
+67,33,Pleurogrammus monopterygius,USA,M
+67,33,Ophiodon elongatus,USA,M
+67,34,Sebastes paucispinis,Canada,M
+67,34,Sebastes pinniger,Canada,M
+67,34,Sebastes alutus,Canada,M
+67,34,Sebastes alutus,Canada,M
+67,34,Sebastes alutus,Canada,M
+67,34,Sebastes maliger,Canada,M
+67,34,Sebastes maliger,Canada,M
+67,34,Sebastes aleutianus,Canada,M
+67,34,Anoplopoma fimbria,Canada,M
+67,34,Sebastes entomelas,Canada,M
+67,34,Sebastes ruberrimus,Canada,O
+67,34,Sebastes ruberrimus,Canada,O
+67,34,Sebastes reedi,Canada,U
+67,34,Sebastes flavidus,Canada,M
+67,34,Sebastes aleutianus,USA,M
+67,34,,USA,M
+67,34,Sebastes melanops,USA,M
+67,34,Sebastes pinniger,USA,M
+67,34,Sebastes caurinus,USA,M
+67,34,Sebastes caurinus,USA,U
+67,34,Sebastes caurinus,USA,M
+67,34,Sebastes crameri,USA,M
+67,34,Sebastes ciliatus,USA,U
+67,34,Sebastes aleutianus,USA,M
+67,34,,USA,U
+67,34,Sebastes polyspinis,USA,U
+67,34,Sebastes polyspinis,USA,M
+67,34,Sebastes alutus,USA,M
+67,34,Sebastes alutus,USA,U
+67,34,Sebastes maliger,USA,M
+67,34,Sebastes maliger,USA,M
+67,34,Anoplopoma fimbria,USA,M
+67,34,Anoplopoma fimbria,USA,M
+67,34,Sebastes borealis,USA,M
+67,34,Sebastes borealis,USA,M
+67,34,Sebastolobus alascanus,USA,U
+67,34,Sebastes miniatus,USA,M
+67,34,Sebastes miniatus,USA,U
+67,34,Sebastes miniatus,USA,M
+67,34,Sebastes ruberrimus,USA,M
+67,31,Atheresthes stomias,Canada,M
+67,31,Pleuronectes quadrituberculatus,USA,M
+67,31,Atheresthes stomias,USA,U
+67,31,Atheresthes stomias,USA,U
+67,31,Atheresthes stomias,USA,U
+67,31,Pleuronectiformes,USA,U
+67,31,Microstomus pacificus,USA,U
+67,31,Microstomus pacificus,USA,U
+67,31,Hippoglossoides elassodon,USA,U
+67,31,Hippoglossoides elassodon,USA,U
+67,31,Reinhardtius hippoglossoides,USA,M
+67,31,Pleuronectiformes,USA,U
+67,31,Atheresthes evermanni,USA,M
+67,31,Lepidopsetta bilineata,USA,M
+67,31,Lepidopsetta bilineata,USA,M
+67,31,Lepidopsetta bilineata,USA,U
+67,31,Lepidopsetta bilineata,USA,U
+67,31,Hippoglossus stenolepis,USA,M
+67,31,Eopsetta jordani,USA,M
+67,31,Glyptocephalus zachirus,USA,U
+67,31,Glyptocephalus zachirus,USA,U
+67,31,Lepidopsetta bilineata,USA,U
+67,31,Lepidopsetta bilineata,USA,U
+67,31,Lepidopsetta bilineata,USA,U
+67,31,Limanda aspera,USA,U
+67,45,,Canada,M
+67,45,Pandalus platyceros,Canada,M
+67,44,Paralithodes platypus,USA,O
+67,44,Paralithodes platypus,USA,O
+67,44,Lithodes aequispina,USA,M
+67,44,Lithodes aequispina,USA,M
+67,44,Paralithodes camtschaticus,USA,M
+67,44,Paralithodes camtschaticus,USA,M
+67,42,Cancer magister,Canada,M
+67,42,,USA,O
+67,42,Chionoecetes bairdi,USA,M
+67,23,Oncorhynchus tshawytscha,Canada,O
+67,23,Oncorhynchus tshawytscha,Canada,O
+67,23,Oncorhynchus tshawytscha,Canada,M
+67,23,Oncorhynchus kisutch,Canada,M
+67,23,Oncorhynchus keta,Canada,M
+67,23,Oncorhynchus keta,Canada,M
+67,23,Oncorhynchus gorbuscha,Canada,M
+67,23,Oncorhynchus gorbuscha,Canada,M
+67,23,Oncorhynchus nerka,Canada,O
+67,23,Oncorhynchus nerka,Canada,M
+67,23,Oncorhynchus nerka,Canada,M
+67,23,Oncorhynchus nerka,Canada,M
+67,23,Oncorhynchus nerka,Canada,M
+67,23,Oncorhynchus nerka,Canada,M
+67,23,Oncorhynchus nerka,Canada,M
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,O
+67,23,Oncorhynchus tshawytscha,USA,O
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus tshawytscha,USA,U
+67,23,Oncorhynchus tshawytscha,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,U
+67,23,Oncorhynchus kisutch,USA,U
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,O
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,U
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,O
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus kisutch,USA,U
+67,23,Oncorhynchus kisutch,USA,O
+67,23,Oncorhynchus kisutch,USA,U
+67,23,Oncorhynchus kisutch,USA,M
+67,23,Oncorhynchus gorbuscha,USA,U
+71,38,Carcharhinus longimanus,High seas,O
+71,38,Chiloscyllium punctatum,Cambodia,M
+71,38,Chiloscyllium punctatum,Thailand,M
+71,38,Chiloscyllium punctatum,Malaysia,U
+71,38,Carcharhinus amblyrhynchos,Marshall Islands,U
+71,38,Triaenodon obesus,Marshall Islands,U
+71,38,Carcharhinus falciformis,High seas,O
+71,36,Katsuwonus pelamis,High Seas,U
+71,36,Thunnus albacares,High Seas,U
+71,36,Thunnus alalunga,High Seas,M
+71,36,Thunnus obesus,High Seas,M
+71,36,Thunnus tonggol,FAO Fishing Area at large,O
+71,36,Thunnus tonggol,Indonesia,O
+71,36,Thunnus tonggol,South China Sea,U
+71,36,Auxis rochei,FAO Fishing Area at large,O
+71,36,Auxis rochei,Philippines,O
+71,36,Auxis rochei,Vietnam,O
+71,36,Auxis thazard,FAO Fishing Area at large,O
+71,36,Auxis thazard,Vietnam,M
+71,36,Auxis thazard,Philippines,O
+71,36,Euthynnus affinis,Indonesia,O
+71,36,Euthynnus affinis,Philippines,O
+71,36,Euthynnus affinis,South China Sea,U
+71,35,Sardinella lemuru,Philippines (Sulu Sea),M
+71,35,Sardinella lemuru,Philippines (Tabayas Bay),M
+71,35,Sardinella lemuru,Indonesia (Bali),O
+71,35,Sardinella lemuru,Indonesia (Sulu Sea),U
+71,35,Sardinella gibbosa,Indonesia (Sulu Sea),M
+71,35,Sardinella gibbosa,Philippines (Visayan Sea),O
+71,35,Sardinella gibbosa,Indonesia (Sulawesi Sea),U
+71,35,Sardinella gibbosa,Philippines (Tabayas Bay),U
+71,35,Amblygaster sirm,FAO Fishing Area at large,O
+71,35,Chirocentrus spp,FAO Fishing Area at large,O
+71,35,Encrasicholina heteroloba,Thailand,U
+71,35,Encrasicholina heteroloba,Vietnam,M
+71,35,Dussumieria acuta,FAO Fishing Area at large,O
+71,33,Caesionidae,FAO Fishing Area at large,U
+71,33,Cephalopholis boenak,FAO Fishing Area at large,O
+71,33,Etelis coruscans,Wallis and Futuna,U
+71,33,Lethrinus nebulosus,New Caledonia,O
+71,33,Mene maculata,FAO Fishing Area at large,O
+71,33,Lutjanus sebae,Indonesia,O
+71,33,Naso lituratus,Palau,M
+71,33,Naso lituratus,Tuvalu,O
+71,33,Naso lituratus,Marshall Islands,U
+71,33,Priacanthus macracanthus,Indonesia,M
+71,33,Priacanthus macracanthus,Vietnam,O
+71,33,Naso unicornis,Fiji,M
+71,33,Naso unicornis,Guam,M
+71,33,Naso unicornis,Palau,M
+71,33,Naso unicornis,Wallis and Futuna,O
+71,33,Naso unicornis,Tuvalu,U
+71,33,Naso vlamingii,Tuvalu,U
+71,33,Naso unicornis,New Caledonia,O
+71,33,Plectropomus leopardus,FAO Fishing Area at large,O
+71,33,Plectropomus leopardus,New Caledonia,O
+71,33,Plectropomus leopardus,Indonesia,O
+71,33,Saurida elongata,Thailand,O
+71,33,Saurida elongata,Vietnam,O
+71,33,Saurida tumbil,Vietnam,O
+71,33,Saurida undosquamis,Thailand,U
+71,33,Parupeneus barberinus,Palau,U
+71,33,Lethrinidae,New Caledonia,O
+71,33,Parupeneus barberinus,Solomon Islands,U
+71,33,Epinephelus cyanopodus,New Caledonia,O
+71,33,Gerres oblongus/Gerres oyena,New Caledonia,O
+71,33,Lethrinus miniatus,New Caledonia,O
+71,33,Lethrinus obsoletus,Tuvalu,M
+71,33,Lethrinus obsoletus,Fiji,O
+71,33,Lethrinus obsoletus,Palau,O
+71,33,Lethrinus olivaceous,Fiji,M
+71,33,Lethrinus olivaceous,Wallis and Futuna,M
+71,33,Lethrinus olivaceous,Guam,O
+71,33,Lethrinus olivaceous,Palau,O
+71,33,Lethrinus olivaceous,Tuvalu,O
+71,33,Lethrinus ornatus,Indonesia,O
+71,33,Lethrinus rubrioperculatus,Palau,M
+71,33,Lethrinus variegatus,Indonesia,O
+71,33,Lethrinus xanthochilus,Guam,M
+71,33,Lethrinus xanthochilus,Palau,M
+71,33,Lethrinus xanthochilus,Solomon Islands,O
+71,33,Lethrinus xanthochilus,Tuvalu,O
+71,33,Lethrinus xanthochilus,Fiji,U
+71,33,Lethrinus xanthochilus,Wallis and Futuna,U
+71,33,Lutjanus vitta,New Caledonia,O
+71,33,Lutjanus vitta,Indonesia,O
+71,33,Lutjanus adetii,New Caledonia,O
+71,33,Lutjanus erythropterus,Indonesia,U
+71,33,Lutjanus fulvus,Tuvalu,M
+71,33,Lutjanus fulvus,Guam,O
+71,33,Lutjanus gibbus,Tuvalu,M
+71,33,Lutjanus gibbus,Marshall Islands,O
+71,33,Lutjanus gibbus,Fiji,O
+71,33,Lutjanus gibbus,Palau,O
+71,33,Lutjanus gibbus,Guam,U
+71,33,Lutjanus gibbus,Solomon Islands,U
+71,33,Lutjanus gibbus,Wallis and Futuna,U
+71,33,Lutjanus johnii,Indonesia,O
+71,33,Lutjanus russelli,Indonesia,O
+71,33,Lutjanus malabaricus,Northern Australia (Timor/Arafura Sea),M
+71,33,Lutjanus malabaricus,Indonesia,O
+71,33,Lutjanus monostigma,Wallis and Futuna,U
+71,33,Monotaxis grandoculis,Fiji,M
+71,33,Monotaxis grandoculis,Guam,M
+71,33,Monotaxis grandoculis,Wallis and Futuna,M
+71,33,Monotaxis grandoculis,Tuvalu,O
+71,33,Mulloidichthys vanicolensis,New Caledonia,O
+71,33,Lethrinus lentjan,Fiji,M
+71,33,Lethrinus lentjan,Solomon Islands,M
+71,33,Lethrinus lentjan,Indonesia,U
+71,33,Lethrinus harak,Indonesia,M
+71,33,Lethrinus harak,Fiji,O
+71,33,Lethrinus harak,Wallis and Futuna,U
+71,33,Lethrinus laticaudis,Indonesia,U
+71,33,Hipposcarus longiceps,Wallis and Futuna,M
+71,33,Hipposcarus longiceps,Vanuatu (Mangalilu),M
+71,33,Hipposcarus longiceps,Palau,O
+71,33,Hipposcarus longiceps,Vanuatu (Maskelynes),O
+71,33,Hipposcarus longiceps,Fiji,O
+71,33,Hipposcarus longiceps,Guam,U
+71,33,Hipposcarus longiceps,Solomon Islands,U
+71,33,Hipposcarus longiceps,Tuvalu,U
+71,33,Epinephelus maculatus,Wallis and Futuna,M
+71,33,Epinephelus maculatus,Fiji,O
+71,33,Epinephelus maculatus,Tuvalu,O
+71,33,Acanthurus lineatus,Tuvalu,M
+71,33,Acanthurus lineatus,Solomon Islands,M
+71,33,Acanthurus nigricauda,Palau,M
+71,33,Acanthurus nigricauda,Solomon Islands,M
+71,33,Acanthurus nigricauda,Wallis and Futuna,O
+71,33,Kyphosus pacificus,New Caledonia,O
+71,33,Acanthurus xanthopterus,Wallis and Futuna,M
+71,33,Acanthurus xanthopterus,Fiji,U
+71,33,Acanthurus triostegus,Tuvalu,M
+71,33,Acanthurus triostegus,Marshall Islands,U
+71,33,Acanthopagrus akazakii,New Caledonia,O
+71,33,Chlorurus microrhinos,Fiji,M
+71,33,Chlorurus microrhinos,Guam,M
+71,33,Chlorurus microrhinos,Palau,M
+71,33,Chlorurus microrhinos,Wallis and Futuna,M
+71,33,Chlorurus microrhinos,Vanuatu (Maskelynes),O
+71,33,Chlorurus microrhinos,Vanuatu (Mangalilu),O
+71,33,Epinephelus polyphekadion,Marshall Islands,O
+71,33,Epinephelus polyphekadion,Fiji,O
+71,33,Epinephelus polyphekadion,Tuvalu,O
+71,33,Epinephelus polyphekadion,Wallis and Futuna,O
+71,33,Atrobucca brevis,Indonesia,O
+71,33,Bolbometopon muricatum,Marshall Islands,O
+71,33,Cheilinus undulatus,Marshall Islands,O
+71,33,Epinephelus amblycephalus,Indonesia,U
+71,33,Epinephelus areolatus,Indonesia,O
+71,33,Epinephelus bleekeri,Indonesia,U
+71,33,Epinephelus coioides,Indonesia,O
+71,33,Nemipterus hexodon,Thailand,M
+71,33,Nemipterus japonicus,Indonesia,U
+71,33,Photopectoralis bindus,Philippines,O
+71,33,Pristipomoides typus,Indonesia,M
+71,33,Pristipomoides multidens,Indonesia,O
+71,33,Sargocentron spiniferum,Tuvalu,O
+71,33,Scarus rivulatus,Fiji,O
+71,33,Protonibea diacanthus,Indonesia,O
+71,33,Pomadasys kaakan,Indonesia,U
+71,33,Siganus argenteus,Solomon Islands,M
+71,33,Priacanthus tayenus,Thailand,U
+71,33,Siganus argenteus,Vanuatu (Maskelynes),M
+71,33,Siganus argenteus,Vanuatu (Mangalilu),M
+71,33,Siganus argenteus,Marshall Islands,O
+71,33,Siganus argenteus,Tuvalu,U
+71,33,Scolopsis taeniopterus,Vietnam,U
+71,33,Upeneus spp,FAO Fishing Area at large,U
+71,33,Siganus canaliculatus,Indonesia,O
+71,33,Siganus guttatus,Indonesia,M
+71,33,Siganus punctatus,Vanuatu (Maskelynes),M
+71,33,Siganus punctatus,Vanuatu (Mangalilu),U
+71,33,Siganus spinus,Vanuatu (Maskelynes),M
+71,33,Siganus spinus,Vanuatu (Mangalilu),O
+71,33,Sillaginidae,FAO Fishing Area at large,O
+71,34,Trichiurus lepturus,Philippines,O
+71,37,Carangidae,New Caledonia,O
+71,37,Caranx spp,FAO Fishing Area at large,U
+71,37,Decapterus spp,FAO Fishing Area at large,O
+71,37,Decapterus spp,Indonesia,O
+71,37,Parastromateus niger,FAO Fishing Area at large,U
+71,37,Pampus argenteus,FAO Fishing Area at large,O
+71,37,Megalaspis cordyla,FAO Fishing Area at large,O
+71,37,Elagatis bipinnulata,FAO Fishing Area at large,O
+71,37,Rastrelliger kanagurta,New Caledonia,O
+71,37,Rastrelliger kanagurta,Thailand,M
+71,37,Rastrelliger kanagurta,Brunei,O
+71,37,Rastrelliger kanagurta,Indonesia,O
+71,37,Rastrelliger kanagurta,Vietnam,O
+71,37,Rastrelliger brachysoma,Indonesia,O
+71,37,Rastrelliger brachysoma,Philippines,O
+71,37,Rastrelliger brachysoma,South China Sea,O
+71,37,Rastrelliger brachysoma,Thailand,O
+71,37,Rastrelliger brachysoma,Vietnam,O
+71,37,Scomberomorus commerson,Northern Australia (Gulf of Carpentaria),M
+71,37,Scomberomorus commerson,Northern Australia (Torres Strait),M
+71,37,Scomberomorus commerson,Northern Australia (East coast),O
+71,37,Scomberomorus commerson,Northern Australia (Northern Territory),U
+71,37,Scomberomorus commerson,New Caledonia,U
+71,37,Scomberomorus commerson,FAO Fishing Area at large,U
+71,37,Scomberomorus commerson,Wallis and Futuna,M
+71,37,Scomberomorus commerson,South China Sea,O
+71,37,Scomberoides spp,FAO Fishing Area at large,M
+71,37,Selar crumenophthalmus,Indonesia (Celebes Sea),M
+71,37,Selar crumenophthalmus,Philippines (Zamboanga),M
+71,37,Selar crumenophthalmus,Philippines (Manila Bay),M
+71,37,Selar crumenophthalmus,Indonesia (Ambon),U
+71,37,Selaroides leptolepis,FAO Fishing Area at large,O
+71,37,Selaroides leptolepis,Vietnam,U
+71,37,Tylosurus spp,FAO Fishing Area at large,O
+71,37,Tylosurus crocodilus,New Caledonia,O
+71,37,Sphyraena barracuda,FAO Fishing Area at large,M
+71,37,Scomberomorus spp,FAO Fishing Area at large,M
+71,37,Decapterus maruadsi,Thailand,O
+71,37,Decapterus maruadsi,Vietnam,O
+71,37,Lactarius lactarius,FAO Fishing Area at large,U
+71,37,Platycaranx chrysophrys,Indonesia,U
+71,37,Herklotsichthys quadrimaculatus,New Caledonia,O
+71,37,Diagramma labiosum,Indonesia,U
+71,37,Scomberomorus guttatus,South China Sea,U
+71,37,Atule mate,Vietnam,M
+71,37,Carangoides orthogrammus,Guam,M
+71,37,Carangoides orthogrammus,Wallis and Futuna,O
+71,37,Caranx bucculentus,Indonesia,O
+71,37,Caranx sexfasciatus,Wallis and Futuna,M
+71,37,Decapterus kurroides,Indonesia,O
+71,37,Decapterus macarellus,Indonesia (Celebes Sea),M
+71,37,Decapterus macarellus,Philippines (Manila Bay),M
+71,37,Decapterus macarellus,Indonesia (West Papua),O
+71,37,Decapterus macarellus,Philippines (Zamboanga),O
+71,37,Decapterus macarellus,South China Sea,O
+71,37,Decapterus macrosoma,Indonesia,M
+71,37,Decapterus macrosoma,Philippines (Palawan),M
+71,37,Decapterus macrosoma,Philippines (Visayan Sea),M
+71,37,Decapterus macrosoma,Philippines (Tabayas Bay),U
+71,42,Portunus pelagicus,Thailand,U
+71,42,Portunus pelagicus,FAO Fishing Area at large,O
+71,42,Scylla serrata,New Caledonia,M
+71,42,Scylla serrata,FAO Fishing Area at large,U
+71,43,Panulirus ornatus,Northern Australia,M
+71,43,Panulirus versicolor,Indonesia,O
+71,44,Birgus latro,Nauru,O
+71,52,Trochus niloticus,New Caledonia,O
+71,52,Charonia tritonis,Nauru,O
+71,52,Lambis lambis,Marshall Islands,O
+71,52,Strombus luhuanus,Marshall Islands,U
+71,56,Anadara granosa,FAO Fishing Area at large,O
+71,56,Tridacna spp.,New Caledonia,O
+71,45,Penaeus indicus/P. merguiensis,Northern Australia (Northern prawn fishery),M
+71,45,Penaeus merguiensis,Thailand,U
+71,45,Penaeus merguiensis,Indonesia (West Papua),O
+71,45,Penaeus merguiensis,Indonesia (West Kalimantan),U
+71,45,Metapenaeus endeavouri/M. ensis,Northern Australia (Northern prawn fishery),M
+71,45,Metapenaeus endeavouri/M. ensis,Northern Australia (East coast),M
+71,45,Metapenaeus spp,FAO Fishing Area at large,M
+71,45,Metapenaeus ensis,Vietnam,U
+71,45,Metapenaeus affinis,Vietnam,U
+71,45,Penaeus esculentus/P. semisulcatus,Vietnam,M
+71,45,Penaeus esculentus/P. semisulcatus,Vietnam,M
+71,45,Penaeus indicus,Vietnam,O
+71,57,Octopus spp.,Vietnam,M
+71,57,Sepiolidae spp.,Vietnam,M
+71,57,Octopus spp.,Vietnam,M
+71,57,Sepia aculeata,Vietnam,M
+71,57,Uroteuthis chinensis,Vietnam,U
+71,57,Uroteuthis duvaucelii,Vietnam,O
+71,57,Uroteuthis duvaucelii,Vietnam,O
+77,38,Sphyrna lewini,Guatemala,M
+77,38,Beringraja binoculata,United States of America,U
+77,38,Alopias pelagicus,Guatemala,U
+77,38,Carcharhinus falciformis,Guatemala,U
+77,36,Scomberomorus sierra 1,Mexico,U
+77,36,Scomberomorus sierra 2,Mexico,U
+77,36,Scomberomorus sierra,Costa Rica,U
+77,36,Auxis thazard,Eastern Central Pacific,O
+77,36,Makaira nigricans,Eastern Central Pacific,U
+77,36,Xiphias gladius,Eastern Central Pacific,O
+77,35,Engraulis mordax,"United States of America, Mexico",M
+77,35,Sardinops sagax,"United States of America, Mexico",O
+77,35,Sardinops sagax,"United States of America, Mexico",U
+77,35,Sardinops sagax,Mexico,U
+77,35,Opisthonema libertate,Mexico,O
+77,35,Opisthonema libertate,Panama,O
+77,35,Cetengraulis mysticetus,Mexico,U
+77,35,Cetengraulis mysticetus,Panama,M
+77,35,Lile stolifera,Eastern Central Pacific,O
+77,32,Merluccius productus,United States of America,U
+77,32,Merluccius productus,Mexico,M
+77,23,Oncorhynchus tshawytscha,United States of America (California Central Valley),O
+77,23,Oncorhynchus tshawytscha,United States of America (Northern California),O
+77,31,Citharichthys sordidus,United States of America,U
+77,31,Cyclopsetta querna,Guatemala,U
+77,31,Cyclopsetta panamensis,Panama,O
+77,33,Lutjanus peru,Mexico,O
+77,33,Ariidae,Eastern Central Pacific,M
+77,33,Serranidae,Costa Rica,O
+77,33,Lutjanus guttatus,Mexico,O
+77,33,Lutjanus argentiventris,Mexico,M
+77,33,Lutjanus argentiventris,Costa Rica,U
+77,33,Centropomus robalito,Mexico,U
+77,33,Gerreidae,Mexico,U
+77,33,Gerreidae,Mexico,M
+77,33,Ophiodon elongatus,United States of America,M
+77,33,Hoplopagrus guentherii,Mexico,M
+77,33,Hoplopagrus guentherii,Costa Rica,U
+77,33,Sciaenidae,Costa Rica,O
+77,33,Pomadasys panamensis,Panama,O
+77,33,Scorpaenichthys marmoratus,United States of America,U
+77,33,Lutjanus novemfasciatus,Costa Rica,U
+77,33,Lutjanus colorado,Costa Rica,U
+77,33,Cynoscion othonopterum,Mexico,O
+77,33,Micropogonias megalops,Mexico,U
+77,33,Paralabrax nebulifer,Mexico,M
+77,34,"Sebastes miniatus, S. crocotulus",United States of America,M
+77,34,Sebastes melanops,United States of America,M
+77,34,Sebastes melanostomus,United States of America,M
+77,34,Sebastes paucispinis,United States of America,M
+77,34,"Sebastes mystinus, S. diaconus",United States of America,M
+77,34,Scorpaena guttata,United States of America,U
+77,34,Sebastes goodei,United States of America,U
+77,34,Sebastes levis,United States of America,U
+77,34,Sebastolobus altivelis,United States of America,U
+77,34,"Sebastes carnatus, S. chrysomelas",United States of America,U
+77,34,Sebastes jordani,United States of America,U
+77,34,Sebastes saxicola,United States of America,U
+77,34,Cynoponticus coniceps,Costa Rica,U
+77,34,Trichiuridae,Eastern Central Pacific,O
+77,37,Scomber japonicus,"United States of America, Mexico",M
+77,37,Trachurus symmetricus,United States of America,U
+77,37,Bramidae,Eastern Central Pacific,M
+77,37,Caranx caballus,Costa Rica,U
+77,37,Coryphaena hippurus,Guatemala,O
+77,37,Caranx caninus,Costa Rica,U
+77,42,Cancer magister,United States of America,M
+77,42,Callinectes bellicosus,Mexico,U
+77,43,Panulirus interruptus,Mexico,M
+77,45,Penaeus brevirostris,Guatemala,O
+77,45,Penaeus brevirostris,Panama,M
+77,45,Penaeus brevirostris,El Salvador,O
+77,45,Penaeus brevirostris,Costa Rica,O
+77,45,Penaeus vannamei,Guatemala,O
+77,45,Penaeus vannamei,El Salvador,O
+77,45,Penaeus vannamei,Guatemala,M
+77,45,Xiphopenaeus riveti,Guatemala,O
+77,45,Xiphopenaeus riveti,El Salvador,O
+77,45,Penaeus californiensis,El Salvador,O
+77,45,Penaeus californiensis,Guatemala,O
+77,45,Penaeus stylirostris,Guatemala,O
+77,45,Penaus spp.,Panama,U
+77,55,Argopecten circularis,Mexico,U
+77,56,Megapitaria squalida,Mexico,O
+77,77,Stomolophus spp.,Mexico,M
