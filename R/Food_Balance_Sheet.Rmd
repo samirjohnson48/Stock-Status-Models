@@ -1,0 +1,124 @@
+---
+title: "Food_Balance_Sheet"
+output: html_document
+---
+
+```{r, echo=FALSE}
+library(reticulate)
+library(purrr)
+py_install("pandas")
+```
+
+```{r}
+source_python("read_pickle.py")
+dir <- "/Users/samirjohnson/Documents/code/FAO/Stock-Status-Models/"
+```
+
+```{r}
+target_data <- read_pickle_file(paste0(dir, "model_data/target_data_prototype.pkl"))
+fb_data <- read_pickle_file(paste0(dir, "model_data/fb_data.pkl"))
+oceanography_data <- read_pickle_file(paste0(dir, "model_data/oceanography_data_ave.pkl"))
+cpi_ave <- read_pickle_file(paste0(dir, "model_data/cpi_ave.pkl"))
+cpi_weighted_ave <- read_pickle_file(paste0(dir, "model_data/cpi_weighted_ave.pkl"))
+gdp_ave <- read_pickle_file(paste0(dir, "model_data/gdp_ave.pkl"))
+gdp_weighted_ave <- read_pickle_file(paste0(dir, "model_data/gdp_weighted_ave.pkl"))
+```
+
+```{r}
+oceanography_data <- lapply(names(data), function(area) {
+  data[[area]]$Area <- as.numeric(area)
+  return(data[[area]])
+})```
+
+```{r}
+production <- fb_data$Production %>%
+  imap_dfr(~ .x %>% mutate(Area = as.numeric(.y)))
+exports <- fb_data$`Food exports` %>%
+  imap_dfr(~ .x %>% mutate(Area = as.numeric(.y)))
+imports <- fb_data$`Food imports` %>%
+  imap_dfr(~ .x %>% mutate(Area = as.numeric(.y)))
+non_food <- fb_data$`Non-food uses` %>%
+  imap_dfr(~ .x %>% mutate(Area = as.numeric(.y)))
+stock_var <- fb_data$`Stock variations` %>%
+  imap_dfr(~ .x %>% mutate(Area = as.numeric(.y)))
+tfs <- fb_data$`Total food supply` %>%
+  imap_dfr(~ .x %>% mutate(Area = as.numeric(.y)))
+```
+
+```{r, echo=FALSE}
+library(dplyr)
+```
+
+```{r}
+time_lag <- 2
+```
+
+```{r}
+create_merged_data <- function(target_data, lagged_data, time_lag) {
+  # Specify the desired years
+  valid_years <- c(2004, 2006, 2008, 2009, 2011, 2013, 2015, 2017, 2019, 2021)
+  
+  merged_data <- lagged_data %>%
+    left_join(target_data, by = c("Area", "Year")) %>%
+    group_by(Area) %>%
+    arrange(Area, Year) %>%
+    {
+      for (lag in 2:(time_lag + 2)) {
+        . <- mutate(., !!paste0("lag_Diff_", lag) := lag(Diff, lag))
+      }
+      .
+    } %>%
+    ungroup() %>%
+    filter(Year %in% valid_years)
+  
+  return(merged_data)
+}
+```
+
+```{r}
+production_lag <- create_merged_data(target_data, production, time_lag)
+production_lag$Year <- as.factor(production_lag$Year)
+```
+
+```{r, echo=FALSE}
+library(lme4)
+library(Matrix)
+library(nlme)
+library(glmmTMB)
+library(geepack)
+```
+
+```{r}
+lagged_model <- function(input_data, indicator, time_lag, lag_start) {
+  data <- input_data
+  lags <- lag_start:(lag_start + time_lag)
+  lag_terms <- paste0("t_", lags)
+  formula_lmm <- as.formula(paste("S ~", paste(lag_terms, collapse = " + "), " + (1 | Area) + ar1(Year + 0 | Area)"))
+  data$Year <- as.factor(data$Year)
+  
+  lmm <- glmmTMB(formula=formula_lmm, data=data, family=beta_family(link="logit"))
+  print(paste("LMM Summary for", indicator))
+  print(summary(lmm))
+  
+  formula_gee <- as.formula(paste("S ~", paste(lag_terms, collapse = " + ")))
+  gee <- geeglm(formula=formula_gee, family=gaussian, id=data$Area, corstr = "ar1", data=data)
+  print(paste("GEE Summary for", indicator))
+  print(summary(gee))
+  
+  return(list(lmm, gee))
+}
+```
+
+```{r}
+cpi_ave_models <- lagged_model(cpi_ave, "CPI Ave", 5, 0)
+cpi_weighted_ave_models <- lagged_model(cpi_weighted_ave, "CPI Weighted Ave", 5, 0)
+```
+
+```{r}
+oceanography_model <- function(o_data, target_data) {
+  comb <- bind_rows(o_data$`41`, o_data$`61`, o_data$`81`)
+  comb$S <- target_data$S
+  
+  
+}
+```
